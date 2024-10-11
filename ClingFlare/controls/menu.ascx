@@ -18,10 +18,10 @@
               </svg>
             </div>
             <ul class="dropdown-site-menu">
-              <li id="lg-clingflare-pro-link"><a href="/clingflare_pro">ClingFlare pro</a></li>
-              <li id="lg-bot-detection-link"><a href="/bot_detection">Bot detection</a></li>
-              <li id="lg-integrations-link"><a href="/integrations">Integrations</a></li>
-              <li id="lg-security-link"><a href="/security">Security</a></li>
+              <li id="lg-clingflare-pro-link"><a href="/clingflare_pro.aspx">ClingFlare pro</a></li>
+              <li id="lg-bot-detection-link"><a href="/bot_detection.aspx">Bot detection</a></li>
+              <li id="lg-integrations-link"><a href="/integrations.aspx">Integrations</a></li>
+              <li id="lg-security-link"><a href="/security.aspx">Security</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown-site-link">
@@ -32,14 +32,14 @@
               </svg>
             </div>
             <ul class="dropdown-site-menu">
-              <li id="lg-payment-fraud-link"><a href="/payment_fraud">Payment fraud</a></li>
-              <li id="lg-account-takeover-link"><a href="/account_takeover">Account takeover</a></li>
-              <li id="lg-account-sharing-prevention-link"><a href="/account_sharing_prevention">Account sharing prevention</a></li>
-              <li id="lg-paywall-link"><a href="/paywall">Paywall</a></li>
-              <li id="lg-ecommerce-link"><a href="/ecommerce">E-commerce</a></li>
-              <li id="lg-buy-now-pay-later-link"><a href="/buy_now_pay_later">Buy now pay later</a></li>
-              <li id="lg-gaming-link"><a href="/gaming">Online Gaming & Gambling</a></li>
-              <li id="lg-cryptocurrency-link"><a href="/cryptocurrency">Cryptocurrency</a></li>
+              <li id="lg-payment-fraud-link"><a href="/payment_fraud.aspx">Payment fraud</a></li>
+              <li id="lg-account-takeover-link"><a href="/account_takeover.aspx">Account takeover</a></li>
+              <li id="lg-account-sharing-prevention-link"><a href="/account_sharing_prevention.aspx">Account sharing prevention</a></li>
+              <li id="lg-paywall-link"><a href="/paywall.aspx">Paywall</a></li>
+              <li id="lg-ecommerce-link"><a href="/ecommerce.aspx">E-commerce</a></li>
+              <li id="lg-buy-now-pay-later-link"><a href="/buy_now_pay_later.aspx">Buy now pay later</a></li>
+              <li id="lg-gaming-link"><a href="/gaming.aspx">Online Gaming & Gambling</a></li>
+              <li id="lg-cryptocurrency-link"><a href="/cryptocurrency.aspx">Cryptocurrency</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown-site-link">
@@ -50,10 +50,10 @@
               </svg>
             </div>
             <ul class="dropdown-site-menu">
-              <li id="lg-documentation-link"><a href="/documentation">Documentation</a></li>
-              <li id="lg-api-status-link"><a href="/api_status">API Status</a></li>
-              <li id="lg-sdk-libraries-link"><a href="/sdk_libraries">SDK & libraries</a></li>
-              <li id="lg-pensource-vs-pro-link"><a href="/opensource_vs_pro">Opensource VS Pro</a></li>
+              <li id="lg-documentation-link"><a href="/documentation.aspx">Documentation</a></li>
+              <li id="lg-api-status-link"><a href="/api_status.aspx">API Status</a></li>
+              <li id="lg-sdk-libraries-link"><a href="/sdk_libraries.aspx">SDK & libraries</a></li>
+              <li id="lg-pensource-vs-pro-link"><a href="/opensource_vs_pro.aspx">Opensource VS Pro</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown-site-link">
@@ -64,19 +64,19 @@
               </svg>
             </div>
             <ul class="dropdown-site-menu">
-              <li id="lg-blog-link"><a href="/blog">Blog</a></li>
-              <li id="lg-webinars-link"><a href="/webinars">Webinars</a></li>
-              <li id="lg-case-studies-link"><a href="/case_studies">Case studies</a></li>
-              <li id="lg-press-link"><a href="/press">Press</a></li>
-              <li id="lg-about-us-link"><a href="/about_us">About us</a></li>
-              <li id="lg-faq-link"><a href="/faq">FAQ</a></li>
+              <li id="lg-blog-link"><a href="/blog.aspx">Blog</a></li>
+              <li id="lg-webinars-link"><a href="/webinars.aspx">Webinars</a></li>
+              <li id="lg-case-studies-link"><a href="/case_studies.aspx">Case studies</a></li>
+              <li id="lg-press-link"><a href="/press.aspx">Press</a></li>
+              <li id="lg-about-us-link"><a href="/about_us.aspx">About us</a></li>
+              <li id="lg-faq-link"><a href="/faq.aspx">FAQ</a></li>
             </ul>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/pricing">Pricing</a>
+            <a class="nav-link" href="/pricing.aspx">Pricing</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/demo" target="_blank">Demo</a>
+            <a class="nav-link" href="/demo.aspx" target="_blank">Demo</a>
           </li>
         </ul>
         <div>

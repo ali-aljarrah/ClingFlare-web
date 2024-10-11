@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="account_sharing_prevention.aspx" />
+    <Content Include="account_takeover.aspx" />
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\inter.css" />
     <Content Include="assets\css\prism.css" />
@@ -80,14 +82,61 @@
     <Content Include="assets\js\jquery.waypoints.min.js" />
     <Content Include="assets\js\main.js" />
     <Content Include="assets\js\prism.js" />
+    <Content Include="bot_detection.aspx" />
+    <Content Include="buy_now_pay_later.aspx" />
+    <Content Include="clingflare_pro.aspx" />
     <Content Include="controls\footer.ascx" />
     <Content Include="controls\header.ascx" />
     <Content Include="controls\loader.ascx" />
     <Content Include="controls\menu.ascx" />
+    <Content Include="cryptocurrency.aspx" />
+    <Content Include="ecommerce.aspx" />
+    <Content Include="gaming.aspx" />
     <Content Include="index.aspx" />
+    <Content Include="integrations.aspx" />
+    <Content Include="opensource_vs_pro.aspx" />
+    <Content Include="payment_fraud.aspx" />
+    <Content Include="paywall.aspx" />
+    <Content Include="sdk_libraries.aspx" />
+    <Content Include="security.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="account_sharing_prevention.aspx.cs">
+      <DependentUpon>account_sharing_prevention.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="account_sharing_prevention.aspx.designer.cs">
+      <DependentUpon>account_sharing_prevention.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="account_takeover.aspx.cs">
+      <DependentUpon>account_takeover.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="account_takeover.aspx.designer.cs">
+      <DependentUpon>account_takeover.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bot_detection.aspx.cs">
+      <DependentUpon>bot_detection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bot_detection.aspx.designer.cs">
+      <DependentUpon>bot_detection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buy_now_pay_later.aspx.cs">
+      <DependentUpon>buy_now_pay_later.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buy_now_pay_later.aspx.designer.cs">
+      <DependentUpon>buy_now_pay_later.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="clingflare_pro.aspx.cs">
+      <DependentUpon>clingflare_pro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="clingflare_pro.aspx.designer.cs">
+      <DependentUpon>clingflare_pro.aspx</DependentUpon>
+    </Compile>
     <Compile Include="controls\footer.ascx.cs">
       <DependentUpon>footer.ascx</DependentUpon>
     </Compile>
@@ -112,6 +161,27 @@
     <Compile Include="controls\menu.ascx.designer.cs">
       <DependentUpon>menu.ascx</DependentUpon>
     </Compile>
+    <Compile Include="cryptocurrency.aspx.cs">
+      <DependentUpon>cryptocurrency.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cryptocurrency.aspx.designer.cs">
+      <DependentUpon>cryptocurrency.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ecommerce.aspx.cs">
+      <DependentUpon>ecommerce.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ecommerce.aspx.designer.cs">
+      <DependentUpon>ecommerce.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gaming.aspx.cs">
+      <DependentUpon>gaming.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gaming.aspx.designer.cs">
+      <DependentUpon>gaming.aspx</DependentUpon>
+    </Compile>
     <Compile Include="index.aspx.cs">
       <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -119,7 +189,49 @@
     <Compile Include="index.aspx.designer.cs">
       <DependentUpon>index.aspx</DependentUpon>
     </Compile>
+    <Compile Include="integrations.aspx.cs">
+      <DependentUpon>integrations.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="integrations.aspx.designer.cs">
+      <DependentUpon>integrations.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="opensource_vs_pro.aspx.cs">
+      <DependentUpon>opensource_vs_pro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="opensource_vs_pro.aspx.designer.cs">
+      <DependentUpon>opensource_vs_pro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="payment_fraud.aspx.cs">
+      <DependentUpon>payment_fraud.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="payment_fraud.aspx.designer.cs">
+      <DependentUpon>payment_fraud.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="paywall.aspx.cs">
+      <DependentUpon>paywall.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="paywall.aspx.designer.cs">
+      <DependentUpon>paywall.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sdk_libraries.aspx.cs">
+      <DependentUpon>sdk_libraries.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sdk_libraries.aspx.designer.cs">
+      <DependentUpon>sdk_libraries.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="security.aspx.cs">
+      <DependentUpon>security.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="security.aspx.designer.cs">
+      <DependentUpon>security.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\font\inter\UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa0ZL7SUc.woff2" />
