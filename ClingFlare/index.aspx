@@ -340,7 +340,10 @@
                                 </span>
                             </a>
                         </div>
-                        <div style="width: 100%; height: 107px; background: #E9EEF2; border-radius: 16px;"></div>
+                       
+                        <div style="width: 100%; height: 107px; background-image:url(/assets/images/home/api.webp); background-repeat: no-repeat;
+                            background-size: cover; background-position: center; border-radius: 16px;">
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4 mb-lg-0">
@@ -365,7 +368,9 @@
                                 </span>
                             </a>
                         </div>
-                        <div style="width: 100%; height: 107px; background: #E9EEF2; border-radius: 16px;"></div>
+                        <div style="width: 100%; height: 107px; background-image:url(/assets/images/home/integrations.webp); background-repeat: no-repeat;
+                            background-size: cover; background-position: center; border-radius: 16px;">
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4 mb-lg-0">
@@ -389,7 +394,10 @@
                                 </span>
                             </a>
                         </div>
-                        <div style="width: 100%; height: 107px; background: #E9EEF2; border-radius: 16px;"></div>
+                       
+                        <div style="width: 100%; height: 107px; background-image:url(/assets/images/home/sdks.webp); background-repeat: no-repeat;
+                            background-size: cover; background-position: center; border-radius: 16px;">
+                        </div>
                     </div>
                 </div>
             </div>
@@ -409,7 +417,10 @@
             <div class="row">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="text-center mx-auto">
-                        <div style="width: 96px; height: 96px; background: #E9EEF2; border-radius: 16px; margin: 0px auto;"></div>
+                        
+                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/home/ggg.webp); background-repeat: no-repeat;
+                            background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                        </div>
                         <h6 class="fs-18 fw-bold secondary-color syne-font mt-4">
                             GDPR and CCPA Compliant
                         </h6>
@@ -417,22 +428,25 @@
                 </div>
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="text-center mx-auto">
-                        <div style="width: 96px; height: 96px; background: #E9EEF2; border-radius: 16px; margin: 0px auto;"></div>
+                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/home/clock.webp); background-repeat: no-repeat;
+                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                       </div>
                         <h6 class="fs-18 fw-bold secondary-color syne-font mt-4">
                             99.8% Uptime SLA
                         </h6>
-                    </div>
-                </div>
+                   </div>
+              </div>
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="text-center mx-auto">
-                        <div style="width: 96px; height: 96px; background: #E9EEF2; border-radius: 16px; margin: 0px auto;"></div>
-                        <h6 class="fs-18 fw-bold secondary-color syne-font mt-4">
-                         SOC 2 Type II
-                        </h6>
-                    </div>
+                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/home/soc2.webp); background-repeat: no-repeat;
+                            background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                        </div>
+                         <h6 class="fs-18 fw-bold secondary-color syne-font mt-4">
+                              SOC 2 Type II
+                         </h6>
                     </div>
             </div>
-        </div>
+            </div>
     </section>
 
     <uc1:footer runat="server" id="footer" />

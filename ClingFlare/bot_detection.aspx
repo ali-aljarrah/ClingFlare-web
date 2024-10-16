@@ -314,7 +314,7 @@ cfPromise
     <section class="py-3 py-md-5 my-5">
         <div class="container">
             <div class="row mt-5">
-                <div class="col-md-6 mb-4 mb-md-0">
+                <div class="col-md-12 mb-4 mb-md-0">
                     <div class="pe-0 pe-md-5">
                         <h4 class="fs-36 secondary-color syne-font fw-bold mb-4">
                         Protect your website from the harmful effects of bots
@@ -327,7 +327,9 @@ cfPromise
                         </p>
                     </div>
                 </div>
-                <div class="col-md-6">
+            </div>
+            <div class="row mt-5">
+                <div class="col-md-12">
                     <div class="d-flex justify-content-start align-items-start border-hover-green mb-4">
                         <div class="me-3">
                             <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">

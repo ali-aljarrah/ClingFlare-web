@@ -91,12 +91,13 @@
                 <div class="col-md-3 mb-4 mb-md-0">
                     <div class="red-border-hover">
                         <div class="mb-3">
+
                             <img width="159" height="107" class="img-fluid" loading="lazy" src="/assets/images/solutions/payment/payment-3.webp" alt="ClingFlare Card Cracking">
                         </div>
                         <h3 class="fs-18 text-white fw-bold syne-font">
                         Card Cracking
                         </h3>
-                        <p class="text-white fs-16">
+                        <p class="text-white fs-16 pt-4">
                         Stop malicious actors from testing combinations of expiry dates, postal codes, and CVVs with lists of purchased PANs. Make credit card payment fraud a problem of the past.
                         </p>
                     </div>
@@ -122,7 +123,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <div class="mx-auto" style="width: 75%; height: 100%; background: #E9EEF2;border-radius: 32px;"></div>
+                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/cash.webp); background-repeat: no-repeat;
+                        background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                    </div>
                 </div>
                 <div class="col-md-6">
                     <h4 class="fs-36 secondary-color fw-bold syne-font mb-3">
@@ -174,7 +177,9 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="mx-auto" style="width: 75%; height: 100%; background: #E9EEF2;border-radius: 32px;"></div>
+                   <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/Developer.webp); background-repeat: no-repeat;
+                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                   </div>
                 </div>
             </div>
         </div>

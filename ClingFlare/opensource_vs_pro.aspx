@@ -147,7 +147,7 @@
                         <h3 class="fs-18 secondary-color fw-bold syne-font">
                         Webhooks
                         </h3>
-                        <p class="text-dark fs-16">
+                        <p class="text-dark fs-16 pb-4">
                         Receive instant notifications delivered securely to your backend systems.
                         </p>
                     </div>
@@ -160,7 +160,7 @@
                         <h3 class="fs-18 secondary-color fw-bold syne-font">
                         Server-side API
                         </h3>
-                        <p class="text-dark fs-16">
+                        <p class="text-dark fs-16 pb-4">
                         Integrate into your server-side business rules or signup process.
                         </p>
                     </div>
@@ -223,7 +223,7 @@
                         </div>
                         <h5 class="fs-18 secondary-color fw-bold syne-font">
                         Create a subdomain
-                        </h3>
+                        </h5>
                         <p class="text-dark fs-16">
                         Use your own domain with clingflare. to improve accuracy.
                         </p>
@@ -269,7 +269,9 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <div class="mx-auto" style="width: 75%; height: 100%; background: #E9EEF2;border-radius: 32px;"></div>
+                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/intecrations.webp); background-repeat: no-repeat;
+                            background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                   </div>
                 </div>
             </div>
         </div>
@@ -304,7 +306,9 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                <div class="ms-auto" style="width: 75%; height: 100%; background: #E9EEF2;border-radius: 32px;"></div>
+                                <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/analysis.webp); background-repeat: no-repeat;
+                                        background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                                 </div>
                             </div>
                         </div>
                         <div class="row mt-3">
@@ -319,7 +323,9 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                <div class="ms-auto" style="width: 75%; height: 100%; background: #E9EEF2;border-radius: 32px;"></div>
+                                 <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/storage.webp); background-repeat: no-repeat;
+                                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                                  </div>
                             </div>
                         </div>
                         <div class="row mt-3">
@@ -334,7 +340,9 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                <div class="ms-auto" style="width: 75%; height: 100%; background: #E9EEF2;border-radius: 32px;"></div>
+                                 <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/local.webp); background-repeat: no-repeat;
+                                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                                  </div>
                             </div>
                         </div>
                     </div>
@@ -354,7 +362,10 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                <div class="ms-auto" style="width: 75%; height: 100%; background: #DD4536;border-radius: 32px;"></div>
+                                 <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/library.webp); background-repeat: no-repeat;
+                                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
+                                  </div>
+                         <%--       <div class="ms-auto" style="width: 75%; height: 100%; background: #DD4536;border-radius: 32px;"></div>--%>
                             </div>
                         </div>
                     </div>

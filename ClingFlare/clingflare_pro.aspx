@@ -69,7 +69,7 @@
                         <div class="col-md-4 mb-4 mb-md-0">
                             <div class="border-card">
                                 <h3 class="fs-36 secondary-color syne-font fw-bold">6k+</h3>
-                                <p class="mb-0 fs-16 dark-color">
+                                <p class="mb-0 fs-14 dark-color">
                                 companies 
                                 </p>
                             </div>
@@ -77,7 +77,7 @@
                         <div class="col-md-4 mb-4 mb-md-0">
                             <div class="border-card">
                                 <h3 class="fs-36 secondary-color syne-font fw-bold">16%</h3>
-                                <p class="mb-0 fs-16 dark-color">
+                                <p class="mb-0 fs-14 dark-color">
                                 of top 500 sites
                                 </p>
                             </div>
@@ -85,7 +85,7 @@
                         <div class="col-md-4 mb-4 mb-md-0">
                             <div class="border-card">
                                 <h3 class="fs-36 secondary-color syne-font fw-bold">1.2B+</h3>
-                                <p class="mb-0 fs-16 dark-color">
+                                <p class="mb-0 fs-14 dark-color">
                                 API calls/month
                                 </p>
                             </div>
@@ -115,10 +115,10 @@
                         <div class="mb-3">
                             <img width="159" height="107" class="img-fluid" loading="lazy" src="/assets/images/platform/pro/pro-3.webp" alt="ClingFlare Catch sophisticated fraudsters">
                         </div>
-                        <h4 class="fs-18 text-white fw-bold syne-font">
+                        <h4 class="fs-16 text-white fw-bold syne-font">
                         Catch sophisticated fraudsters
                         </h4>
-                        <p class="text-white fs-16">
+                        <p class="text-white fs-14">
                         Associate current users with previous instances of fraud, even when they attempt to conceal their identity.
                         </p>
                     </div>
@@ -128,10 +128,10 @@
                         <div class="mb-3">
                             <img width="159" height="107" class="img-fluid" loading="lazy" src="/assets/images/platform/pro/pro-4.webp" alt="ClingFlare Improve user experience for trusted visitors">
                         </div>
-                        <h4 class="fs-18 text-white fw-bold syne-font">
+                        <h4 class="fs-16 text-white fw-bold syne-font">
                         Improve user experience for trusted visitors
                         </h4>
-                        <p class="text-white fs-16">
+                        <p class="text-white fs-14">
                         Skip 2FA and OTP more often, and provide personalized experiences for logged out users.
                         </p>
                     </div>
@@ -141,10 +141,10 @@
                         <div class="mb-3">
                             <img width="159" height="107" class="img-fluid" loading="lazy" src="/assets/images/platform/pro/pro-5.webp" alt="ClingFlare High accuracy on mobile and web">
                         </div>
-                        <h4 class="fs-18 text-white fw-bold syne-font">
+                        <h4 class="fs-16 text-white fw-bold syne-font">
                         High accuracy on mobile and web
                         </h4>
-                        <p class="text-white fs-16">
+                        <p class="text-white fs-14">
                         Identify users with confidence on all browsers and devices - including iOS and Safari.
                         </p>
                     </div>
@@ -154,10 +154,10 @@
                         <div class="mb-3">
                             <img width="159" height="107" class="img-fluid" loading="lazy" src="/assets/images/platform/pro/pro-6.webp" alt="ClingFlare Longest identification lifetimes">
                         </div>
-                        <h4 class="fs-18 text-white fw-bold syne-font">
+                        <h4 class="fs-16 text-white fw-bold syne-font">
                         Longest identification lifetimes
                         </h4>
-                        <p class="text-white fs-16">
+                        <p class="text-white fs-14">
                         Associate historical, behavioral, and biometric data sources with your users over years, not days.
                         </p>
                     </div>

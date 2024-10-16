@@ -16,6 +16,16 @@
 <meta property="og:title" content="ClingFlare - Integrations">
 <meta property="og:description"
     content="clingflare. offers seamless third party integrations, making it easy to get started quickly - whatever your tech stack looks like.">
+
+<style>
+
+    .integraion-block .content {
+    padding: 24px 6px;
+}
+
+</style>
+
+
 </head>
 
 <body>
@@ -51,9 +61,9 @@
                 Stop advanced bots <br />with clingflare.
                 </h2>
             </div>
-            <div class="row mt-5">
-                <div class="col-md-6 mx-auto">
-                    <a href="#" class="integraion-block row">                        
+            <div class="row">
+                <div class="col-md-12 m-5 d-flex">
+                    <a href="#" class="integraion-block row my-5 mx-2">                        
                         <div class="icon google col-lg-3">
                             <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-2.webp" alt="ClingFlare Google Tag Manager">
                         </div>
@@ -66,7 +76,7 @@
                             </p>
                         </div>
                     </a>
-                    <a href="#" class="integraion-block row">                        
+                    <a href="#" class="integraion-block row my-5 mx-2">                        
                         <div class="icon cloudflare col-lg-3">
                             <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-3.webp" alt="ClingFlare Cloudflare">
                         </div>
@@ -79,7 +89,7 @@
                             </p>
                         </div>
                     </a>
-                    <a href="#" class="integraion-block row">                        
+                    <a href="#" class="integraion-block row my-5 mx-2">                        
                         <div class="icon segment col-lg-3">
                             <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-4.webp" alt="ClingFlare Segment">
                         </div>
