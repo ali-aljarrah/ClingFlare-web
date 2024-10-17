@@ -115,7 +115,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                   <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/sacrificing.webp); background-repeat: no-repeat;
+                   <div style="width: 75%; height: 100%; background-image:url(/assets/images/cryptocurrency/sacrificing.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                  </div>
                 </div>
@@ -169,7 +169,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/payment.webp); background-repeat: no-repeat;
+                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/cryptocurrency/payment.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                      </div>
                 </div>

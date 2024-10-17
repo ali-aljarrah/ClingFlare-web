@@ -375,8 +375,8 @@
     <Content Include="assets\images\home\minimize.webp" />
     <Content Include="assets\images\home\fingerprinting.webp" />
     <Content Include="assets\images\home\players-accounts.webp" />
-    <Content Include="assets\images\home\payment.webp" />
-    <Content Include="assets\images\home\sacrificing.webp" />
+    <Content Include="assets\images\cryptocurrency\payment.webp" />
+    <Content Include="assets\images\cryptocurrency\sacrificing.webp" />
     <Content Include="assets\images\opensource\intecrations.webp" />
     <Content Include="assets\images\opensource\analysis.webp" />
     <Content Include="assets\images\opensource\local.webp" />

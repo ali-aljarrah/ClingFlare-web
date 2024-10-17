@@ -59,7 +59,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                     <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/minimize.webp); background-repeat: no-repeat;
+                     <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/minimize.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                      </div>
                 </div>
@@ -87,7 +87,7 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/Increase.webp); background-repeat: no-repeat;
+                <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Increase.webp); background-repeat: no-repeat;
                     background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                 </div>
                 </div>
@@ -99,7 +99,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                  <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/Streamline.webp); background-repeat: no-repeat;
+                  <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Streamline.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                   </div>
                 </div>
@@ -127,7 +127,7 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                  <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/Identification.webp); background-repeat: no-repeat;
+                  <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Identification.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                   </div>
                 </div>
@@ -139,7 +139,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/Build-your-data.webp); background-repeat: no-repeat;
+                <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Build-your-data.webp); background-repeat: no-repeat;
                     background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                 </div>
                 </div>

@@ -148,7 +148,7 @@
             <div class="row mt-5">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="text-center mx-auto">
-                       <div style="width: 96px; height: 96px; background-image:url(/assets/images/home/ggg.webp); background-repeat: no-repeat;
+                       <div style="width: 96px; height: 96px; background-image:url(/assets/images/security/ggg.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                        </div>
                         <h5 class="fs-18 fw-bold secondary-color syne-font mt-4">
@@ -158,7 +158,7 @@
                 </div>
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="text-center mx-auto">
-                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/home/clock.webp); background-repeat: no-repeat;
+                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/security/clock.webp); background-repeat: no-repeat;
                              background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                         </div>
                         <h5 class="fs-18 fw-bold secondary-color syne-font mt-4">
@@ -168,7 +168,7 @@
                 </div>
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="text-center mx-auto">
-                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/home/soc2.webp); background-repeat: no-repeat;
+                        <div style="width: 96px; height: 96px; background-image:url(/assets/images/security/soc2.webp); background-repeat: no-repeat;
                              background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                         </div>
                         <h5 class="fs-18 fw-bold secondary-color syne-font mt-4">

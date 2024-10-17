@@ -122,7 +122,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                     <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/secure.webp); background-repeat: no-repeat;
+                     <div style="width: 75%; height: 100%; background-image:url(/assets/images/paywall/secure.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                       </div>
                 </div>
@@ -176,7 +176,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                      <div style="width: 75%; height: 100%; background-image:url(/assets/images/home/Easily-integrate.webp); background-repeat: no-repeat;
+                      <div style="width: 75%; height: 100%; background-image:url(/assets/images/paywall/Easily-integrate.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                       </div>
                 </div>
