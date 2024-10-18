@@ -124,7 +124,7 @@
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
                     
-                       <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/payment_fraud/cash.webp" alt="ClingFlare - Developer-friendly integrations" />
+                       <img width="435" height="291" loading="lazy" class="img-fluid rounded-4" src="/assets/images/payment_fraud/cash.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                    <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/payment_fraud/cash.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -183,7 +183,7 @@
                 <div class="col-md-6">
 
                     
-                       <img width="407" height="271" loading="lazy" class="img-fluid" src="/assets/images/payment_fraud/Developer.webp" alt="ClingFlare - Developer-friendly integrations" />
+                       <img width="435" height="291" loading="lazy" class="img-fluid ms-5" src="/assets/images/payment_fraud/Developer.webp" alt="ClingFlare - Developer-friendly integrations" />
 
 <%--                   <div style="width: 75%; height: 100%; background-image:url(/assets/images/payment_fraud/Developer.webp); background-repeat: no-repeat;
                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">

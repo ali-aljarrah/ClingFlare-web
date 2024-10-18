@@ -54,16 +54,16 @@
     <section class="py-3 py-md-5 mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 mb-4 mb-md-0">
+                <div class="col-md-5 mb-4 mb-md-0">
 
-                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/account_sharing/revenue.webp" alt="ClingFlare - Developer-friendly integrations" />
+                     <img width="382" height="382" loading="lazy" class="img-fluid rounded-4" src="/assets/images/account_sharing/revenue.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                    <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/account_sharing/revenue.webp); background-repeat: no-repeat;
                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                     </div>--%>
 
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-7">
                     <h2 class="fs-36 secondary-color fw-bold syne-font mb-3">
                     How Much Revenue Are You Leaving On The Table From Account Sharing?
                     </h2>

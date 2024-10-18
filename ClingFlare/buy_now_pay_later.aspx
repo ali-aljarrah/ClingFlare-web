@@ -60,7 +60,7 @@
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
 
-                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/minimize.webp" alt="ClingFlare - Developer-friendly integrations" />
+                     <img width="420" height="236" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/minimize.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                     <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/minimize.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -92,7 +92,7 @@
                 </div>
                 <div class="col-md-6">
 
-                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/buy_now/Increase.webp" alt="ClingFlare - Developer-friendly integrations" />
+                     <img width="409" height="273" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/buy_now/Increase.webp" alt="ClingFlare - Developer-friendly integrations" />
 
               <%--  <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Increase.webp); background-repeat: no-repeat;
                     background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -106,13 +106,13 @@
     <section class="py-3 py-md-5 mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 mb-4 mb-md-0">
-                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Streamline.webp" alt="ClingFlare - Developer-friendly integrations" />
+                <div class="col-md-5 mb-4 mb-md-0">
+                     <img width="409" height="273" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Streamline.webp" alt="ClingFlare - Developer-friendly integrations" />
                   <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Streamline.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                   </div>--%>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-7">
                     <h4 class="fs-36 secondary-color fw-bold syne-font mb-3">
                     Streamline Checkout and Onboarding
                     </h4>
@@ -135,8 +135,8 @@
                     <span class="fw-bold syne-font">clingflare</span>. works for web, iOS and Android applications, as well as in third-party installations as part of a merchant's checkout flow. On every platform, clingflare. outshines the competition with high accuracy, easy integration, and minimal impact on application performance.
                     </p>
                 </div>
-                <div class="col-md-6">
-                      <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/buy_now/Identification.webp" alt="ClingFlare - Developer-friendly integrations" />
+                <div class="col-md-6  d-flex justify-content-center">
+                      <img width="436" height="245" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Identification.webp" alt="ClingFlare - Developer-friendly integrations" />
                  <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Identification.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                   </div>--%>
@@ -149,7 +149,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                      <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Build-your-data.webp" alt="ClingFlare - Developer-friendly integrations" />
+                      <img width="420" height="279" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Build-your-data.webp" alt="ClingFlare - Developer-friendly integrations" />
                 <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Build-your-data.webp); background-repeat: no-repeat;
                     background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
                 </div>--%>

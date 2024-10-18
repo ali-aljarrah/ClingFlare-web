@@ -97,7 +97,7 @@
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
 
-                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/account_takeover/shopping-accounting.webp" alt="ClingFlare - Developer-friendly integrations" />
+                     <img width="425" height="284" loading="lazy" class="img-fluid rounded-4 d-flex justify-content-center" src="/assets/images/account_takeover/shopping-accounting.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                       <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/account_takeover/shopping-accounting.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -152,9 +152,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 d-flex justify-content-center">
 
-                    <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/account_takeover/strong.webp" alt="ClingFlare - Developer-friendly integrations" />
+                    <img width="390" height="292" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/account_takeover/strong.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                 <%--      <div style="width: 75%; height: 100%; background-image:url(/assets/images/account_takeover/strong.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">

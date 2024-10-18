@@ -115,7 +115,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                      <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/cryptocurrency/sacrificing.webp" alt="ClingFlare - Developer-friendly integrations" />
+                      <img width="425" height="283" loading="lazy" class="img-fluid rounded-4" src="/assets/images/cryptocurrency/sacrificing.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                   <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/cryptocurrency/sacrificing.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -172,7 +172,7 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                      <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/cryptocurrency/payment.webp" alt="ClingFlare - Developer-friendly integrations" />
+                      <img width="431" height="245" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/cryptocurrency/payment.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                    <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/cryptocurrency/payment.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
