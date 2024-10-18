@@ -123,9 +123,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/ecommerce/Flexible1-developer.webp); background-repeat: no-repeat;
+
+                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/ecommerce/Flexible1-developer.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+                   <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/ecommerce/Flexible1-developer.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                  </div>
+                  </div>--%>
+
                 </div>
                 <div class="col-md-6">
                     <h4 class="fs-36 secondary-color fw-bold syne-font mb-3">
@@ -177,9 +181,13 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/ecommerce/payment.webp); background-repeat: no-repeat;
+
+                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/ecommerce/payment.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+                   <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/ecommerce/payment.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                    </div>
+                    </div>--%>
+
                 </div>
             </div>
         </div>

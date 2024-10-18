@@ -62,46 +62,50 @@
                 </h2>
             </div>
             <div class="row">
-                <div class="col-md-12 m-5 d-flex">
-                    <a href="#" class="integraion-block row my-5 mx-2">                        
-                        <div class="icon google col-lg-3">
-                            <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-2.webp" alt="ClingFlare Google Tag Manager">
-                        </div>
-                        <div class="content col-lg-9">
-                            <h3 class="fs-20 fw-bold syne-font secondary-color mb-2">
-                            Google Tag Manager
-                            </h3>
-                            <p class="mb-0 fs-16 dark-color">
-                                <span class="fw-600">clingflare</span>. GTM is an open-source tag that can be imported to the GTM manually.
-                            </p>
-                        </div>
-                    </a>
-                    <a href="#" class="integraion-block row my-5 mx-2">                        
-                        <div class="icon cloudflare col-lg-3">
-                            <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-3.webp" alt="ClingFlare Cloudflare">
-                        </div>
-                        <div class="content col-lg-9">
-                            <h3 class="fs-20 fw-bold syne-font secondary-color mb-2">
-                            Cloudflare
-                            </h3>
-                            <p class="mb-0 fs-16 dark-color">
-                            Cloudflare Integration is responsible for delivering the latest fingerprinting client-side logic as well as proxying identification requests and responses between your site and <span class="fw-600">clingflare</span>.'s API.
-                            </p>
-                        </div>
-                    </a>
-                    <a href="#" class="integraion-block row my-5 mx-2">                        
-                        <div class="icon segment col-lg-3">
-                            <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-4.webp" alt="ClingFlare Segment">
-                        </div>
-                        <div class="content col-lg-9">
-                            <h3 class="fs-20 fw-bold syne-font secondary-color mb-2">
-                            Segment
-                            </h3>
-                            <p class="mb-0 fs-16 dark-color">
-                            Our Segment source function allows you to use <span class="fw-600">clingflare</span>. identification events as a data source in Segment and use them in all of your Segment integrations.
-                            </p>
-                        </div>
-                    </a>
+                <div class="col-md-4 d-flex">
+                        <a href="#" class="integraion-block row my-5 mx-2">                        
+                            <div class="icon google col-lg-3">
+                                <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-2.webp" alt="ClingFlare Google Tag Manager">
+                            </div>
+                            <div class="content col-lg-9">
+                                <h3 class="fs-20 fw-bold syne-font secondary-color mb-2">
+                                Google Tag Manager
+                                </h3>
+                                <p class="mb-0 fs-16 dark-color">
+                                    <span class="fw-600">clingflare</span>. GTM is an open-source tag that can be imported to the GTM manually.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 d-flex">
+                        <a href="#" class="integraion-block row my-5 mx-2">                        
+                            <div class="icon cloudflare col-lg-3">
+                                <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-3.webp" alt="ClingFlare Cloudflare">
+                            </div>
+                            <div class="content col-lg-9">
+                                <h3 class="fs-20 fw-bold syne-font secondary-color mb-2">
+                                Cloudflare
+                                </h3>
+                                <p class="mb-0 fs-16 dark-color">
+                                Cloudflare Integration is responsible for delivering the latest fingerprinting client-side logic as well as proxying identification requests and responses between your site and <span class="fw-600">clingflare</span>.'s API.
+                                </p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-4 d-flex">
+                        <a href="#" class="integraion-block row my-5 mx-2">                        
+                            <div class="icon segment col-lg-3">
+                                <img width="40" height="40" class="img-fluid" loading="lazy" src="/assets/images/platform/integration/integration-4.webp" alt="ClingFlare Segment">
+                            </div>
+                            <div class="content col-lg-9">
+                                <h3 class="fs-20 fw-bold syne-font secondary-color mb-2">
+                                Segment
+                                </h3>
+                                <p class="mb-0 fs-16 dark-color">
+                                Our Segment source function allows you to use <span class="fw-600">clingflare</span>. identification events as a data source in Segment and use them in all of your Segment integrations.
+                                </p>
+                            </div>
+                        </a>
                 </div>
             </div>
         </div>

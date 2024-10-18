@@ -55,9 +55,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/account_sharing/revenue.webp); background-repeat: no-repeat;
+
+                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/account_sharing/revenue.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+                   <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/account_sharing/revenue.webp); background-repeat: no-repeat;
                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                    </div>
+                    </div>--%>
+
                 </div>
                 <div class="col-md-6">
                     <h2 class="fs-36 secondary-color fw-bold syne-font mb-3">

@@ -340,10 +340,11 @@
                                 </span>
                             </a>
                         </div>
-                       
+
                         <div style="width: 100%; height: 107px; background-image:url(/assets/images/home/api.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px;">
                         </div>
+
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4 mb-lg-0">

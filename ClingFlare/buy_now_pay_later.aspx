@@ -59,9 +59,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                     <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/minimize.webp); background-repeat: no-repeat;
+
+                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/minimize.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+                    <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/minimize.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                     </div>
+                     </div>--%>
+
                 </div>
                 <div class="col-md-6">
                     <h2 class="fs-36 secondary-color fw-bold syne-font mb-3">
@@ -87,9 +91,13 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Increase.webp); background-repeat: no-repeat;
+
+                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/buy_now/Increase.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+              <%--  <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Increase.webp); background-repeat: no-repeat;
                     background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                </div>
+                </div>--%>
+
                 </div>
             </div>
         </div>
@@ -99,9 +107,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                  <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Streamline.webp); background-repeat: no-repeat;
+                     <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Streamline.webp" alt="ClingFlare - Developer-friendly integrations" />
+                  <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Streamline.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                  </div>
+                  </div>--%>
                 </div>
                 <div class="col-md-6">
                     <h4 class="fs-36 secondary-color fw-bold syne-font mb-3">
@@ -127,9 +136,10 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                  <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Identification.webp); background-repeat: no-repeat;
+                      <img width="407" height="271" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/buy_now/Identification.webp" alt="ClingFlare - Developer-friendly integrations" />
+                 <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Identification.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                  </div>
+                  </div>--%>
                 </div>
             </div>
         </div>
@@ -139,9 +149,10 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-6 mb-4 mb-md-0">
-                <div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Build-your-data.webp); background-repeat: no-repeat;
+                      <img width="407" height="271" loading="lazy" class="img-fluid rounded-4" src="/assets/images/buy_now/Build-your-data.webp" alt="ClingFlare - Developer-friendly integrations" />
+                <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/buy_now/Build-your-data.webp); background-repeat: no-repeat;
                     background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                </div>
+                </div>--%>
                 </div>
                 <div class="col-md-6">
                     <h6 class="fs-36 secondary-color fw-bold syne-font mb-3">

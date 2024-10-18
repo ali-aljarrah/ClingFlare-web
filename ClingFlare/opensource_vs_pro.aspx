@@ -269,9 +269,12 @@
                     </div>
                 </div>
                 <div class="col-md-6 mb-4 mb-md-0">
-                    <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/intecrations.webp); background-repeat: no-repeat;
+                      <img width="400" height="270" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/opensource/intecrations.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+                   <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/intecrations.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                   </div>
+                   </div>--%>
+
                 </div>
             </div>
         </div>
@@ -306,9 +309,11 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/analysis.webp); background-repeat: no-repeat;
+                                  <img width="300" height="200" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/analysis.webp" alt="ClingFlare - Developer-friendly integrations" />
+                                <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/analysis.webp); background-repeat: no-repeat;
                                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                                 </div>
+                                 </div>--%>
+
                             </div>
                         </div>
                         <div class="row mt-3">
@@ -323,9 +328,10 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                 <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/storage.webp); background-repeat: no-repeat;
+                                  <img width="300" height="200" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/storage.webp" alt="ClingFlare - Developer-friendly integrations" />
+                                <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/storage.webp); background-repeat: no-repeat;
                                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                                  </div>
+                                  </div>--%>
                             </div>
                         </div>
                         <div class="row mt-3">
@@ -340,9 +346,10 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                 <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/local.webp); background-repeat: no-repeat;
+                                  <img width="300" height="200" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/local.webp" alt="ClingFlare - Developer-friendly integrations" />
+                                 <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/local.webp); background-repeat: no-repeat;
                                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                                  </div>
+                                  </div>--%>
                             </div>
                         </div>
                     </div>
@@ -362,10 +369,12 @@
                                 </div>
                             </div>
                             <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
-                                 <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/library.webp); background-repeat: no-repeat;
+                                  <img width="300" height="200" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/library.webp" alt="ClingFlare - Developer-friendly integrations" />
+
+                                <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/library.webp); background-repeat: no-repeat;
                                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                                  </div>
-                         <%--       <div class="ms-auto" style="width: 75%; height: 100%; background: #DD4536;border-radius: 32px;"></div>--%>
+                                  </div>--%>
+                      
                             </div>
                         </div>
                     </div>
