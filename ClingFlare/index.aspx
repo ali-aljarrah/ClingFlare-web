@@ -14,16 +14,7 @@
 <meta property="og:title" content="ClingFlare - Home">
 <meta property="og:description"
     content="Powered by the most accurate device fingerprinting technology, Clingflare enables engineers to prevent fraud, improve user experiences, and better understand their traffic.">
-<style>
-    .bg-img{
-        width: 100%; 
-        height: 107px; 
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center; 
-        border-radius: 16px;
-    }
-    </style>
+
 </head>
 
 <body>
