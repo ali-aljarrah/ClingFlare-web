@@ -191,7 +191,7 @@
     <section class="py-3 py-md-5 mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-6 mb-4 mb-md-0">
+                <div class="col-md-6 mb-4 mb-md-0 text-center">
 
                       <img width="436" height="291" loading="lazy" class="img-fluid rounded-4" src="/assets/images/gaming/fingerprinting.webp" alt="ClingFlare - Developer-friendly integrations" />
 
@@ -228,7 +228,7 @@
     <section class="py-3 py-md-5 mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-7 mb-4 mb-md-0">
+                <div class="col-md-6 mb-4 mb-md-0">
                     <h5 class="fs-36 secondary-color fw-bold syne-font mb-3">
                     Protect your players' accounts and your bottom-line with anti-fraud protection from login to payment.
                     </h5>
@@ -249,9 +249,9 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-6 text-center">
 
-                      <img width="428" height="240" loading="lazy" class="img-fluid rounded-4 ms-3" src="/assets/images/gaming/players-accounts.webp" alt="ClingFlare - Developer-friendly integrations" />
+                      <img width="428" height="240" loading="lazy" class="img-fluid rounded-4" src="/assets/images/gaming/players-accounts.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                   <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/gaming/players-accounts.webp); background-repeat: no-repeat;
                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">

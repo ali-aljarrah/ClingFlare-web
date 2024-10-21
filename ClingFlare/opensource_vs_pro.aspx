@@ -268,8 +268,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 mb-4 mb-md-0">
-                      <img width="464" height="309" loading="lazy" class="img-fluid rounded-4 ms-5" src="/assets/images/opensource/intecrations.webp" alt="ClingFlare - Developer-friendly integrations" />
+                <div class="col-md-6 mb-4 mb-md-0 text-center">
+                      <img width="464" height="309" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/intecrations.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                    <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/intecrations.webp); background-repeat: no-repeat;
                             background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -308,7 +308,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
+                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-center">
                                   <img width="302" height="201" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/analysis.webp" alt="ClingFlare - Developer-friendly integrations" />
                                 <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/analysis.webp); background-repeat: no-repeat;
                                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -327,7 +327,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
+                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-center">
                                   <img width="302" height="201" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/storage.webp" alt="ClingFlare - Developer-friendly integrations" />
                                 <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/storage.webp); background-repeat: no-repeat;
                                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -345,7 +345,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
+                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-center">
                                   <img width="302" height="201" loading="lazy" class="img-fluid rounded-4 mt-3" src="/assets/images/opensource/local.webp" alt="ClingFlare - Developer-friendly integrations" />
                                  <%--<div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/local.webp); background-repeat: no-repeat;
                                          background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
@@ -368,7 +368,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-end">
+                            <div class="offset-1 col-md-6 mb-4 mb-md-0 text-center">
                                   <img width="320" height="172" loading="lazy" class="img-fluid rounded-4" src="/assets/images/opensource/library.webp" alt="ClingFlare - Developer-friendly integrations" />
 
                                 <%-- <div style="width: 75%; height: 100%; background-image:url(/assets/images/opensource/library.webp); background-repeat: no-repeat;

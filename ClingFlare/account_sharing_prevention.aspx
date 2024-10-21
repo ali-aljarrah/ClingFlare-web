@@ -54,7 +54,7 @@
     <section class="py-3 py-md-5 mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-5 mb-4 mb-md-0">
+                <div class="col-md-5 mb-4 mb-md-0 text-center">
 
                      <img width="382" height="382" loading="lazy" class="img-fluid rounded-4" src="/assets/images/account_sharing/revenue.webp" alt="ClingFlare - Developer-friendly integrations" />
 
