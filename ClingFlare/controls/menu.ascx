@@ -66,7 +66,7 @@
             <ul class="dropdown-site-menu">
               <li id="lg-blog-link"><a href="/blog.aspx">Blog</a></li>
               <li id="lg-webinars-link"><a href="/webinars.aspx">Webinars</a></li>
-              <li id="lg-case-studies-link"><a href="/case_studies.aspx">Case studies</a></li>
+              <li id="lg-case-studies-link"><a href="/case-studies.aspx">Case studies</a></li>
               <li id="lg-press-link"><a href="/press.aspx">Press</a></li>
               <li id="lg-about-us-link"><a href="/about_us.aspx">About us</a></li>
               <li id="lg-faq-link"><a href="/faq.aspx">FAQ</a></li>

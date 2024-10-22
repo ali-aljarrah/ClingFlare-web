@@ -31,7 +31,7 @@
                         <div class="text-center mb-5">
                             <img class="img-fluid" width="544" height="310" loading="lazy" src="/assets/images/case-studies/header.webp" alt="Clingflare Go beyond browser fingerprinting">
                         </div>
-                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4">
+                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 mx-5 px-5">
                              Grow understanding with our case studies
                         </h1>
                     </div>
@@ -46,19 +46,20 @@
          <div class="row">
              <div class="col-md-4 mb-4">
                  <div class="border-card-hover h-100 d-flex flex-column w-100">
-                     <div class="mb-3">
+                     <div class="row">
+                         <div class="mb-3 bg-gray py-3 px-3">
+                            <img class="img-fluid mb-5" width="" height="" loading="lazy" src="/assets/images/case-studies/fulllogo.webp" alt="Clingflare Go beyond browser fingerprinting">
+                            <h3 class="fs-20 mt-5 secondary-color fw-bold syne-font">
+                                Third Party Verification
+                            </h3>
+                         </div>
                      </div>
                      <div class="d-flex flex-column h-100 justify-content-between">
                          <div>
-                             <h3 class="fs-18 secondary-color fw-bold syne-font">
-                                 Third Party Verification
-                             </h3>
                              <p class="dark-color fs-16">
                                 A door-to-door sales software company was able to greatly increase their identity verification accuracy, prevent fraud committed by sales representatives, and exceed compliance standards with clingflare. 
                              </p>
-                         </div>
-                        
-                     </div>
+                         </div>                     </div>
                  </div>
              </div>
              <div class="col-md-4 mb-4">

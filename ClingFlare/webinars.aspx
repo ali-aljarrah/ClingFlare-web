@@ -30,7 +30,7 @@
                         <div class="text-center mb-5">
                             <img class="img-fluid" width="544" height="310" loading="lazy" src="/assets/images/webinars/header.webp" alt="Clingflare Go beyond browser fingerprinting">
                         </div>
-                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4">
+                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 text-center mx-5 px-5">
                         Grow understanding with our webinars
                         </h1>
                     </div>
@@ -42,7 +42,7 @@
 
     <section>
      <div class="container">
-         <div class="row">
+         <div class="row mb-5 pb-5">
              <div class="col-md-4 mb-4">
                  <div class="border-card-hover h-100 d-flex flex-column w-100">
                      <div class="mb-3">
