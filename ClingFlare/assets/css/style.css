@@ -1246,6 +1246,10 @@ footer a:hover {
   stroke: #FFFFFF;
 }
 
+.rounded-top-22 {
+    border-radius: 22px 22px 0px 0px;
+}
+
 @media (max-width: 1400px) {
   .bg-line {
     background-position: 0px 57px;
