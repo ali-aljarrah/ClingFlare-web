@@ -26,7 +26,27 @@ body::-webkit-scrollbar-thumb {
 .burger-btn {
   width: 35px;
 }
-
+.red {
+    color: #e15c4c;
+}
+.dark-blue {
+    color: #1e2154;
+}
+.fs-22{
+    font-size: 22px;
+}
+.fs-24 {
+    font-size: 24px;
+}
+.fs-26 {
+    font-size: 26px;
+}
+.fs-28 {
+    font-size: 28px;
+}
+.fs-30 {
+    font-size: 30px;
+}
 .bg-img {
     width: 100%;
     height: 107px;
@@ -35,7 +55,30 @@ body::-webkit-scrollbar-thumb {
     background-position: center;
     border-radius: 16px;
 }
-
+.bg-grad-img-1 {
+    background-image: url(../images/press/image01-social.webp), linear-gradient(to top right, #dd6542, #d8b662, #d3f077);
+    background-position: bottom center;
+}
+.bg-grad-img-2 {
+    background-image: url(../images/press/image02-news.webp), linear-gradient(to top right, #dd6542, #d8b662, #d3f077);
+    background-position: bottom right;
+}
+.bg-grad-img-3 {
+    background-image: url(../images/press/image03-icon.webp);
+    background-position: bottom center;
+}
+.bg-style {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.h-450{
+    height:450px !important;
+}
+.h-250 {
+    height: 250px !important;
+}
 .burger-btn:before,
 .burger-btn:after,
 .burger-btn div {

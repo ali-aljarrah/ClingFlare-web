@@ -70,6 +70,7 @@
               <li id="lg-press-link"><a href="/press.aspx">Press</a></li>
               <li id="lg-about-us-link"><a href="/about_us.aspx">About us</a></li>
               <li id="lg-faq-link"><a href="/faq.aspx">FAQ</a></li>
+              <li id="lg-faq-link"><a href="/contact.aspx">Contact</a></li>
             </ul>
           </li>
           <li class="nav-item">

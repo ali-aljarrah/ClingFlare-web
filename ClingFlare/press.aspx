@@ -41,64 +41,61 @@
     <section>
      <div class="container">
          <div class="row mb-4">
-             <div class="col-md-8 mb-4">
-                    <div class="pt-3 px-4 rounded-5" style="background-image:url(/assets/images/press/Rectangle1.webp); background-repeat:no-repeat;background-size: cover;    background-position: center;">
+             <div class="col-md-9 mb-4">
+                    <div class="pt-3 px-4 rounded-5 bg-gray h-450">
                         <div class="row">
-                            <div class="col-lg-3 mb-3">
-                               <img width="130" height="62" loading="lazy" class="img-fluid" src="/assets/images/press/logo.webp" alt="ClingFlare - Developer-friendly integrations" />
-
+                            <div class="col-lg-4 mb-3">
+                                <h3 class="fs-30 fw-600 dark-blue">Logo</h3>
+                                <p class="fs-18 fw-500 red">Download assets</p>
                             </div>
-                            <div class="col-lg-3 mb-3">
-                                <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/frame1.webp" alt="ClingFlare - Developer-friendly integrations" />
-
-                            </div>
-                            <div class="col-lg-3 mb-3">
-                                <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/frame2.webp" alt="ClingFlare - Developer-friendly integrations" />
-
-                            </div>
-                            <div class="col-lg-3 mb-3">
-                                <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/frame3.webp" alt="ClingFlare - Developer-friendly integrations" />
-
+                            <div class="row">
+                                <div class="col-lg-4 mb-3">
+                                    <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-start" src="/assets/images/press/frame1.webp" alt="ClingFlare - Developer-friendly integrations" />
+                                </div>
+                                <div class="col-lg-4 mb-3">
+                                    <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-start" src="/assets/images/press/frame2.webp" alt="ClingFlare - Developer-friendly integrations" />
+                                </div>
+                                <div class="col-lg-4 mb-3">
+                                    <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-start" src="/assets/images/press/frame3.webp" alt="ClingFlare - Developer-friendly integrations" />
+                                </div>
                             </div>
                         </div>
-                           
                     </div>
              </div>
-             <div class="col-md-4 mb-4">
-                  <div class="pt-3 px-4 rounded-5" style="background-image:url(/assets/images/press/Rectangle2.webp); background-repeat:no-repeat">
-                      <div class="d-flex justify-content-start flex-wrap">
-                         <img width="130" height="62" loading="lazy" class="img-fluid" src="/assets/images/press/social.webp" alt="ClingFlare - Developer-friendly integrations" />
-                     </div>
-                      <div class="d-flex justify-content-center flex-wrap">
-                          <img width="277" height="324" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/image01-social.webp" alt="ClingFlare - Developer-friendly integrations" />
-                     </div>
-                  </div>
-            </div>
-         </div>
 
-          <div class="row mb-5 pb-5">
-             <div class="col-md-4 mb-4">
-                  <div class="pt-3 px-4 rounded-5" style="background-image:url(/assets/images/press/Rectangle3.webp); background-repeat:no-repeat">
-                      <div class="d-flex justify-content-start">
-                         <img width="130" height="62" loading="lazy" class="img-fluid" src="/assets/images/press/news.webp" alt="ClingFlare - Developer-friendly integrations" />
-                     </div>
-                      <div class="d-flex justify-content-end">
-                          <img width="269" height="174" loading="lazy" class="img-fluid rounded-4 pe-2 text-center" src="/assets/images/press/image02-news.webp" alt="ClingFlare - Developer-friendly integrations" />
-                     </div>
-                  </div>
+              <div class="col-md-3 mb-4">
+                    <div class="pt-3 px-4 rounded-5 bg-grad-img-1 bg-style">
+                        <div class="row">
+                            <div class="col-lg-12 mb-3">
+                                <h3 class="fs-30 fw-600 white-color">Social</h3>
+                                <p class="fs-18 fw-500 red">Download assets</p>
+                            </div>
+                        </div>
+                    </div>
+             </div>
+
+              <div class="col-md-4 mb-4">
+                   <div class="pt-3 px-4 rounded-5 bg-grad-img-2 bg-style">
+                       <div class="row">
+                           <div class="col-lg-12 mb-3">
+                               <h3 class="fs-30 fw-600 white-color">News</h3>
+                               <p class="fs-18 fw-500 red">Download assets</p>
+                           </div>
+                       </div>
+                   </div>
             </div>
+             
               <div class="col-md-8 mb-4">
-                  <div class="pt-3 px-4 rounded-5 bg-gray" style="background-image:url(/assets/images/press/Rectangle4.webp); background-repeat:no-repeat">
-                      <div class="d-flex justify-content-start">
-                         <img width="130" height="62" loading="lazy" class="img-fluid" src="/assets/images/press/icon.webp" alt="ClingFlare - Developer-friendly integrations" />
-                     </div>
-                      <div class="d-flex justify-content-center">
-                          <img width="277" height="324" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/image03-icon.webp" alt="ClingFlare - Developer-friendly integrations" />
-                     </div>
-                  </div>
+                   <div class="pt-3 px-4 rounded-5 bg-gray bg-grad-img-3 bg-style h-250">
+                       <div class="row">
+                           <div class="col-lg-12 mb-3">
+                               <h3 class="fs-30 fw-600 dark-blue">icon</h3>
+                               <p class="fs-18 fw-500 red">Download assets</p>
+                           </div>
+                       </div>
+                 </div>
             </div>
          </div>
-
      </div>
  </section>
 

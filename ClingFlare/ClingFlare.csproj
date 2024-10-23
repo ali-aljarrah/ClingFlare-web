@@ -92,6 +92,7 @@
     <Content Include="buy_now_pay_later.aspx" />
     <Content Include="case-studies.aspx" />
     <Content Include="clingflare_pro.aspx" />
+    <Content Include="contact.aspx" />
     <Content Include="controls\footer.ascx" />
     <Content Include="controls\header.ascx" />
     <Content Include="controls\loader.ascx" />
@@ -160,6 +161,13 @@
     </Compile>
     <Compile Include="clingflare_pro.aspx.designer.cs">
       <DependentUpon>clingflare_pro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="contact.aspx.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="contact.aspx.designer.cs">
+      <DependentUpon>contact.aspx</DependentUpon>
     </Compile>
     <Compile Include="controls\footer.ascx.cs">
       <DependentUpon>footer.ascx</DependentUpon>
