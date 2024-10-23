@@ -42,21 +42,26 @@
      <div class="container">
          <div class="row mb-4">
              <div class="col-md-8 mb-4">
-                    <div class="pt-3 px-4 rounded-5" style="background-image:url(/assets/images/press/Rectangle1.webp); background-repeat:no-repeat;">
-                            <div class="d-flex justify-content-start">
+                    <div class="pt-3 px-4 rounded-5" style="background-image:url(/assets/images/press/Rectangle1.webp); background-repeat:no-repeat;background-size: cover;    background-position: center;">
+                        <div class="row">
+                            <div class="col-lg-3 mb-3">
                                <img width="130" height="62" loading="lazy" class="img-fluid" src="/assets/images/press/logo.webp" alt="ClingFlare - Developer-friendly integrations" />
-                           </div>
-<%--                          <div class="d-flex justify-content-center flex-wrap">--%>
-                            <div class="d-flex justify-content-start">
+
+                            </div>
+                            <div class="col-lg-3 mb-3">
                                 <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/frame1.webp" alt="ClingFlare - Developer-friendly integrations" />
+
                             </div>
-                            <div class="d-flex justify-content-center">
+                            <div class="col-lg-3 mb-3">
                                 <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/frame2.webp" alt="ClingFlare - Developer-friendly integrations" />
+
                             </div>
-                            <div class="d-flex justify-content-end">
+                            <div class="col-lg-3 mb-3">
                                 <img width="266" height="114" loading="lazy" class="img-fluid rounded-4 mt-5 text-center" src="/assets/images/press/frame3.webp" alt="ClingFlare - Developer-friendly integrations" />
-                           </div>
-                       <%--  </div>--%>
+
+                            </div>
+                        </div>
+                           
                     </div>
              </div>
              <div class="col-md-4 mb-4">
