@@ -40,7 +40,7 @@
     </section>
 
 
-    <section>
+    <section  class="py-3 py-md-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 mb-4">
@@ -57,90 +57,81 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 mb-4">
-                    <div class="border-card-hover h-100 d-flex flex-column w-100">
-                        <div class="mb-3">
-                        </div>
-                        <div class="d-flex flex-column h-100 justify-content-between">
-                            <div>
-                                <h3 class="fs-18 secondary-color fw-bold syne-font">Prevent Promotion Abuse at Live Events
-                                </h3>
-                                <p class="dark-color fs-16">
-                                    Read about how a major food and beverage brand stopped promo abuse at live events while making the redemption process even easier.
-                                </p>
-                            </div>
 
-                        </div>
+                <div class="col-md-4 mb-4">
+                   <div class="border-card-hover h-100 w-100 p-0">
+                         <div class="mb-3 bg-gray py-3 px-3 rounded-top-22">
+                                <img class="img-fluid mb-5" width="" height="" loading="lazy" src="/assets/images/case-studies/fulllogo.webp" alt="Clingflare Go beyond browser fingerprinting">
+                                <h3 class="fs-20 mt-4 secondary-color fw-bold syne-font">Prevent Promotion Abuse at Live Events
+                                </h3>
+                          </div>
+                          <div class="p-3">
+                            <p class="dark-color fs-16">
+                               Read about how a major food and beverage brand stopped promo abuse at live events while making the redemption process even easier.
+                            </p>
+                          </div>
                     </div>
                 </div>
+
                 <div class="col-md-4 mb-4">
-                    <div class="border-card-hover h-100 d-flex flex-column w-100">
-                        <div class="mb-3">
-                        </div>
-                        <div class="d-flex flex-column h-100 justify-content-between">
-                            <div>
-                                <h3 class="fs-18 secondary-color fw-bold syne-font">How one company stopped review fraud with clingflare.
-                                </h3>
+                       <div class="border-card-hover h-100 w-100 p-0">
+                             <div class="mb-3 bg-gray py-3 px-3 rounded-top-22">
+                                    <img class="img-fluid mb-5" width="" height="" loading="lazy" src="/assets/images/case-studies/fulllogo.webp" alt="Clingflare Go beyond browser fingerprinting">
+                                    <h3 class="fs-20 mt-4 secondary-color fw-bold syne-font">How one company stopped review fraud with clingflare.
+                                    </h3>
+                              </div>
+                              <div class="p-3">
                                 <p class="dark-color fs-16">
                                     The company was able to catch an additional 500 fake reviews per day with clingflare. highly accurate visitor identification API, even when the perpetrators attempted to conceal their identity using a VPN or clearing cookies.
                                 </p>
-                            </div>
-
+                              </div>
                         </div>
                     </div>
-                </div>
-
             </div>
-            <div class="row">
-                <div class="col-md-4 mb-4">
-                    <div class="border-card-hover h-100 d-flex flex-column w-100">
-                        <div class="mb-3">
-                        </div>
-                        <div class="d-flex flex-column h-100 justify-content-between">
-                            <div>
-                                <h3 class="fs-18 secondary-color fw-bold syne-font">Signup Protection for Online Contests
-                                </h3>
-                                <p class="dark-color fs-16">
-                                    The company significantly reduced the instances of multiple entries to ensure the integrity of contests on their platform.
-                                </p>
-                            </div>
 
-                        </div>
+            <div class="row mt-5">
+                 <div class="col-md-4 mb-4">
+                    <div class="border-card-hover h-100 w-100 p-0">
+                          <div class="mb-3 bg-gray py-3 px-3 rounded-top-22">
+                                 <img class="img-fluid mb-5" width="" height="" loading="lazy" src="/assets/images/case-studies/fulllogo.webp" alt="Clingflare Go beyond browser fingerprinting">
+                                 <h3 class="fs-20 mt-4 secondary-color fw-bold syne-font">Signup Protection for Online Contests
+                                 </h3>
+                           </div>
+                           <div class="p-3">
+                             <p class="dark-color fs-16">
+                                The company significantly reduced the instances of multiple entries to ensure the integrity of contests on their platform.                            
+                             </p>
+                           </div>
+                     </div>
+                 </div>
+                <div class="col-md-4 mb-4">
+                   <div class="border-card-hover h-100 w-100 p-0">
+                         <div class="mb-3 bg-gray py-3 px-3 rounded-top-22">
+                                <img class="img-fluid mb-5" width="" height="" loading="lazy" src="/assets/images/case-studies/fulllogo.webp" alt="Clingflare Go beyond browser fingerprinting">
+                                <h3 class="fs-20 mt-4 secondary-color fw-bold syne-font">Account sharing prevention in Netflix
+                                </h3>
+                          </div>
+                          <div class="p-3">
+                            <p class="dark-color fs-16">
+                               Read about how a SaaS educational technology company used clingflare. to significantly reduce unauthorized account sharing, increasing their annual recurring revenue by $10M+ ARR while keeping legitimate users happy.
+                            </p>
+                          </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
-                    <div class="border-card-hover h-100 d-flex flex-column w-100">
-                        <div class="mb-3">
-                        </div>
-                        <div class="d-flex flex-column h-100 justify-content-between">
-                            <div>
-                                <h3 class="fs-18 secondary-color fw-bold syne-font">Account sharing prevention in Netflix
+                   <div class="border-card-hover h-100 w-100 p-0">
+                         <div class="mb-3 bg-gray py-3 px-3 rounded-top-22">
+                                <img class="img-fluid mb-5" width="" height="" loading="lazy" src="/assets/images/case-studies/fulllogo.webp" alt="Clingflare Go beyond browser fingerprinting">
+                                <h3 class="fs-20 mt-5 secondary-color fw-bold syne-font">Credit Card Fraud
                                 </h3>
-                                <p class="dark-color fs-16">
-                                    Read about how a SaaS educational technology company used clingflare. to significantly reduce unauthorized account sharing, increasing their annual recurring revenue by $10M+ ARR while keeping legitimate users happy.
-                                </p>
-                            </div>
-
-                        </div>
+                          </div>
+                          <div class="p-3">
+                            <p class="dark-color fs-16">
+                                clingflare. increased fraud identification accuracy, reducing stolen credit card purchases and saving time on manual checks.
+                            </p>
+                          </div>
                     </div>
                 </div>
-                <div class="col-md-4 mb-4">
-                    <div class="border-card-hover h-100 d-flex flex-column w-100">
-                        <div class="mb-3">
-                        </div>
-                        <div class="d-flex flex-column h-100 justify-content-between">
-                            <div>
-                                <h3 class="fs-18 secondary-color fw-bold syne-font">Credit Card Fraud
-                                </h3>
-                                <p class="dark-color fs-16">
-                                    clingflare. increased fraud identification accuracy, reducing stolen credit card purchases and saving time on manual checks.
-                                </p>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
             </div>
         </div>
     </section>

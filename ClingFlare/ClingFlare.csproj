@@ -105,6 +105,7 @@
     <Content Include="opensource_vs_pro.aspx" />
     <Content Include="payment_fraud.aspx" />
     <Content Include="paywall.aspx" />
+    <Content Include="press.aspx" />
     <Content Include="sdk_libraries.aspx" />
     <Content Include="security.aspx" />
     <Content Include="Web.config" />
@@ -246,6 +247,13 @@
     </Compile>
     <Compile Include="paywall.aspx.designer.cs">
       <DependentUpon>paywall.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="press.aspx.cs">
+      <DependentUpon>press.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="press.aspx.designer.cs">
+      <DependentUpon>press.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sdk_libraries.aspx.cs">
