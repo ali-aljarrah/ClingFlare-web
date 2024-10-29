@@ -114,13 +114,13 @@
                 <a id="sm-clingflare-pro-link" class="mobile-link" href="/clingflare_pro">Clingflare pro</a>
               </div>
               <div class="mb-2">
-                <a id="sm-bot-detection-link" class="mobile-link" href="/bot_detection">Bot detection</a>
+                <a id="sm-bot-detection-link" class="mobile-link" href="/bot_detection.aspx">Bot detection</a>
               </div>
               <div class="mb-2">
-                <a id="sm-integrations-link" class="mobile-link" href="/integrations">Integrations</a>
+                <a id="sm-integrations-link" class="mobile-link" href="/integrations.aspx">Integrations</a>
               </div>
               <div class="mb-2">
-                <a id="sm-security-link" class="mobile-link" href="/security">Security</a>
+                <a id="sm-security-link" class="mobile-link" href="/security.aspx">Security</a>
               </div>
             </div>
           </div>
@@ -134,28 +134,28 @@
           <div id="solutions" class="accordion-collapse collapse" aria-labelledby="headingSolutions" data-bs-parent="#accordionMobileMenu">
              <div class="accordion-body pb-1 px-2">
               <div class="mb-2">
-                <a id="sm-payment-fraud-link" class="mobile-link" href="/payment_fraud">Payment fraud</a>
+                <a id="sm-payment-fraud-link" class="mobile-link" href="/payment_fraud.aspx">Payment fraud</a>
               </div>
               <div class="mb-2">
-                <a id="sm-account-takeover-link" class="mobile-link" href="/account_takeover">Account takeover</a>
+                <a id="sm-account-takeover-link" class="mobile-link" href="/account_takeover.aspx">Account takeover</a>
               </div>
               <div class="mb-2">
-                <a id="sm-account-sharing-prevention-link" class="mobile-link" href="/account_sharing_prevention">Account sharing prevention</a>
+                <a id="sm-account-sharing-prevention-link" class="mobile-link" href="/account_sharing_prevention.aspx">Account sharing prevention</a>
               </div>
               <div class="mb-2">
-                <a id="sm-paywall-link" class="mobile-link" href="/paywall">Paywall</a>
+                <a id="sm-paywall-link" class="mobile-link" href="/paywall.aspx">Paywall</a>
               </div>
               <div class="mb-2">
-                <a id="sm-ecommerce-link" class="mobile-link" href="/ecommerce">E-commerce</a>
+                <a id="sm-ecommerce-link" class="mobile-link" href="/ecommerce.aspx">E-commerce</a>
               </div>
               <div class="mb-2">
-                <a id="sm-buy-now-pay-later-link" class="mobile-link" href="/buy_now_pay_later">Buy now pay later</a>
+                <a id="sm-buy-now-pay-later-link" class="mobile-link" href="/buy_now_pay_later.aspx">Buy now pay later</a>
               </div>
               <div class="mb-2">
-                <a id="sm-gaming-link" class="mobile-link" href="/gaming">Online Gaming & Gambling</a>
+                <a id="sm-gaming-link" class="mobile-link" href="/gaming.aspx">Online Gaming & Gambling</a>
               </div>
               <div class="mb-2">
-                <a id="sm-cryptocurrency-link" class="mobile-link" href="/cryptocurrency">Cryptocurrency</a>
+                <a id="sm-cryptocurrency-link" class="mobile-link" href="/cryptocurrency.aspx">Cryptocurrency</a>
               </div>
             </div>
           </div>
@@ -169,16 +169,16 @@
           <div id="developers" class="accordion-collapse collapse" aria-labelledby="headingDevelopers" data-bs-parent="#accordionMobileMenu">
             <div class="accordion-body pb-1 px-2">
               <div class="mb-2">
-                <a id="sm-documentation-link" class="mobile-link" href="/documentation">Documentation</a>
+                <a id="sm-documentation-link" class="mobile-link" href="/documentation.aspx">Documentation</a>
               </div>
               <div class="mb-2">
-                <a id="sm-api-status-link" class="mobile-link" href="/api_status">API status</a></a>
+                <a id="sm-api-status-link" class="mobile-link" href="/api_status.aspx">API status</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-sdk-libraries-link" class="mobile-link" href="/sdk_libraries">SDK & libraries</a></a>
+                <a id="sm-sdk-libraries-link" class="mobile-link" href="/sdk_libraries.aspx">SDK & libraries</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-pensource-vs-pro-link" class="mobile-link" href="/opensource_vs_pro">Opensource VS Pro</a></a>
+                <a id="sm-pensource-vs-pro-link" class="mobile-link" href="/opensource_vs_pro.aspx">Opensource VS Pro</a></a>
               </div>
             </div>
           </div>
@@ -192,32 +192,32 @@
           <div id="resources" class="accordion-collapse collapse" aria-labelledby="headingResources" data-bs-parent="#accordionMobileMenu">
             <div class="accordion-body pb-1 px-2">
               <div class="mb-2">
-                <a id="sm-blog-link" class="mobile-link" href="/blog">Blog</a>
+                <a id="sm-blog-link" class="mobile-link" href="/blog.aspx">Blog</a>
               </div>
               <div class="mb-2">
-                <a id="sm-webinars-link" class="mobile-link" href="/webinars">Webinars</a></a>
+                <a id="sm-webinars-link" class="mobile-link" href="/webinars.aspx">Webinars</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-case-studies-link" class="mobile-link" href="/case_studies">Case studies</a></a>
+                <a id="sm-case-studies-link" class="mobile-link" href="/case_studies.aspx">Case studies</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-press-link" class="mobile-link" href="/press">Press</a></a>
+                <a id="sm-press-link" class="mobile-link" href="/press.aspx">Press</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-about-us-link" class="mobile-link" href="/about_us">About us</a></a>
+                <a id="sm-about-us-link" class="mobile-link" href="/about_us.aspx">About us</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-faq-link" class="mobile-link" href="/faq">FAQ</a></a>
+                <a id="sm-faq-link" class="mobile-link" href="/faq.aspx">FAQ</a></a>
               </div>
             </div>
           </div>
         </div>
       </div>
       <div class="mb-2">
-        <a id="sm-pricing-link" class="mobile-link" href="/pricing">Pricing</a>
+        <a id="sm-pricing-link" class="mobile-link" href="/pricing.aspx">Pricing</a>
       </div>
       <div class="mb-2">
-        <a id="sm-demo-link" class="mobile-link" href="/demo">Demo</a>
+        <a id="sm-demo-link" class="mobile-link" href="/demo.aspx">Demo</a>
       </div>
       <div class="mb-2">
         <a class="mobile-link" href="#">Sign up</a>
