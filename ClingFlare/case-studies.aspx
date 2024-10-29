@@ -31,7 +31,7 @@
                         <div class="text-center mb-5">
                             <img class="img-fluid" width="544" height="310" loading="lazy" src="/assets/images/case-studies/header.webp" alt="Clingflare Go beyond browser fingerprinting">
                         </div>
-                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 mx-5 px-5">Grow understanding with our case studies
+                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 mx-lg-5 px-lg-5">Grow understanding with our case studies
                         </h1>
                     </div>
                 </div>

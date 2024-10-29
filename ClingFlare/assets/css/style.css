@@ -67,17 +67,40 @@ body::-webkit-scrollbar-thumb {
     background-image: url(../images/press/image03-icon.webp);
     background-position: bottom center;
 }
+.bg-grad {
+    background-image: linear-gradient(to top right, #dd6542, #d8b662, #d3f077);
+}
 .bg-style {
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
     background-size: contain;
 }
-.h-450{
-    height:450px !important;
+.bg-green {
+    background-color: #D3F278;
 }
+.bg-orange {
+    background-color: #DD4536;
+}
+.bg-dark-blue {
+    background-color: #1F2253;
+}
+.btn-hv {
+    top: 72px;
+    left: calc(100vw - 66vw);
+}
+/*.h-450{
+    height:450px !important;
+}*/
 .h-250 {
     height: 250px !important;
+}
+.h-w-card {
+    height: 75%;
+    width: 100%;
+}
+.h-fit{
+    height:fit-content;
 }
 .burger-btn:before,
 .burger-btn:after,
@@ -890,7 +913,9 @@ pre::-webkit-scrollbar-thumb {
 .red-color {
   color: #dd4536;
 }
-
+.yellow-color {
+    color: #fcff81;
+}
 .red-button:hover {
   background: #FC6739;
   color: #e9eef2;

@@ -98,6 +98,7 @@
     <Content Include="controls\loader.ascx" />
     <Content Include="controls\menu.ascx" />
     <Content Include="cryptocurrency.aspx" />
+    <Content Include="demo.aspx" />
     <Content Include="ecommerce.aspx" />
     <Content Include="faq.aspx" />
     <Content Include="gaming.aspx" />
@@ -199,6 +200,13 @@
     </Compile>
     <Compile Include="cryptocurrency.aspx.designer.cs">
       <DependentUpon>cryptocurrency.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="demo.aspx.cs">
+      <DependentUpon>demo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="demo.aspx.designer.cs">
+      <DependentUpon>demo.aspx</DependentUpon>
     </Compile>
     <Compile Include="ecommerce.aspx.cs">
       <DependentUpon>ecommerce.aspx</DependentUpon>

@@ -28,7 +28,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="mb-5 text-center">
-                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 text-center py-5 mx-5 px-5">
+                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 text-center py-lg-5 mx-lg-5 px-lg-5">
                             Press and Brand <br> Resources
                         </h1>
                     </div>
@@ -42,7 +42,7 @@
      <div class="container">
          <div class="row mb-4">
              <div class="col-md-9 mb-4">
-                    <div class="pt-3 px-4 rounded-5 bg-gray h-450">
+                    <div class="pt-3 px-4 rounded-5 bg-gray">
                         <div class="row">
                             <div class="col-lg-4 mb-3">
                                 <h3 class="fs-30 fw-600 dark-blue">Logo</h3>
