@@ -28,7 +28,7 @@
             <div class="row pb-5">
                 <div class="col-md-12">
                     <div class="mb-5 text-center">
-                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4">
+                        <h1 class="secondary-color pages-header fw-bolder mb-4">
                         Stop cryptocurrency fraud in its <br />tracks
                         </h1>
                         <p class="fs-16 dark-color">

@@ -181,15 +181,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 text-center">
-
-                    
-                       <img width="435" height="291" loading="lazy" class="img-fluid ms-5" src="/assets/images/payment_fraud/Developer.webp" alt="ClingFlare - Developer-friendly integrations" />
-
-<%--                   <div style="width: 75%; height: 100%; background-image:url(/assets/images/payment_fraud/Developer.webp); background-repeat: no-repeat;
-                         background-size: cover; background-position: center; border-radius: 16px; margin: 0px auto;">
-                        </div>--%>
-
-
+                       <img width="435" height="291" loading="lazy" class="img-fluid ms-lg-5" src="/assets/images/payment_fraud/Developer.webp" alt="ClingFlare - Developer-friendly integrations" />
                 </div>
             </div>
         </div>

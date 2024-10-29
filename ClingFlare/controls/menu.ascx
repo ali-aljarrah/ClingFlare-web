@@ -111,7 +111,7 @@
           <div id="platform" class="accordion-collapse collapse" aria-labelledby="headingPlatform" data-bs-parent="#accordionMobileMenu">
             <div class="accordion-body pb-1 px-2">
               <div class="mb-2">
-                <a id="sm-clingflare-pro-link" class="mobile-link" href="/clingflare_pro">Clingflare pro</a>
+                <a id="sm-clingflare-pro-link" class="mobile-link" href="/clingflare_pro.aspx">Clingflare pro</a>
               </div>
               <div class="mb-2">
                 <a id="sm-bot-detection-link" class="mobile-link" href="/bot_detection.aspx">Bot detection</a>
@@ -198,7 +198,7 @@
                 <a id="sm-webinars-link" class="mobile-link" href="/webinars.aspx">Webinars</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-case-studies-link" class="mobile-link" href="/case_studies.aspx">Case studies</a></a>
+                <a id="sm-case-studies-link" class="mobile-link" href="/case-studies.aspx">Case studies</a></a>
               </div>
               <div class="mb-2">
                 <a id="sm-press-link" class="mobile-link" href="/press.aspx">Press</a></a>
@@ -209,6 +209,9 @@
               <div class="mb-2">
                 <a id="sm-faq-link" class="mobile-link" href="/faq.aspx">FAQ</a></a>
               </div>
+              <div class="mb-2">
+               <a id="sm-contact-link" class="mobile-link" href="/contact.aspx">Contact</a></a>
+             </div>
             </div>
           </div>
         </div>

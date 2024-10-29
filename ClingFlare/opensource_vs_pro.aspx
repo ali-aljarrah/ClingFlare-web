@@ -243,8 +243,8 @@
                     <p class="fs-16 dark-color">
                     <span class="fw-bold syne-font">clingflare</span>. provides SDKs built with best practices for the most popular client and server side frameworks and 3rd party service providers.
                     </p>
-                    <div class="mt-4 d-flex">
-                        <div class="me-3">
+                    <div class="mt-4 d-lg-flex">
+                        <div class="me-3 mb-3">
                             <a class="red-outline-btn" href="#">
                                 <span>SDKs & Libraries</span>
                                 <span>
