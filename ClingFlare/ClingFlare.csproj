@@ -108,6 +108,7 @@
     <Content Include="payment_fraud.aspx" />
     <Content Include="paywall.aspx" />
     <Content Include="press.aspx" />
+    <Content Include="pricing.aspx" />
     <Content Include="sdk_libraries.aspx" />
     <Content Include="security.aspx" />
     <Content Include="Web.config" />
@@ -270,6 +271,13 @@
     </Compile>
     <Compile Include="press.aspx.designer.cs">
       <DependentUpon>press.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pricing.aspx.cs">
+      <DependentUpon>pricing.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pricing.aspx.designer.cs">
+      <DependentUpon>pricing.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="sdk_libraries.aspx.cs">
@@ -438,6 +446,9 @@
     <Content Include="assets\images\opensource\local.webp" />
     <Content Include="assets\images\opensource\storage.webp" />
     <Content Include="assets\images\opensource\library.webp" />
+    <Content Include="assets\images\faq\header.webp" />
+    <Content Include="assets\images\pricing\header.webp" />
+    <Content Include="assets\images\pricing\range.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

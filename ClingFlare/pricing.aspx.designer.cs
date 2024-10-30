@@ -11,7 +11,7 @@ namespace ClingFlare
 {
 
 
-    public partial class blog
+    public partial class pricing
     {
 
         /// <summary>

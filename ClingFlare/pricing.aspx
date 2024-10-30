@@ -1,5 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="faq.aspx.cs" Inherits="ClingFlare.faq" %>
-
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="pricing.aspx.cs" Inherits="ClingFlare.pricing" %>
 
 <%@ Register Src="~/controls/footer.ascx" TagPrefix="uc1" TagName="footer" %>
 <%@ Register Src="~/controls/header.ascx" TagPrefix="uc1" TagName="header" %>
@@ -28,35 +27,90 @@
     <section class="py-3 py-md-5">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-6">
+                      <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 text-start">
+                           We’ve got the perfect pricing plan for you
+                      </h1>
+                      <p>
+                          Get started with options that fit your needs. Fully transparent pricing with linear cost scalability.                       
+                      </p>
+                      <div class="mt-5">
+                          <a class="red-button" href="#">
+                              <span class="me-1">Contact sales</span>
+                              <span>
+                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                      <path d="M21 12H3" stroke="#E9EEF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                      <path d="M15 6L21 12L15 18" stroke="#E9EEF2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                 </svg>
+                              </span>
+                          </a>
+                      </div>
+                  </div>
+                <div class="col-md-6">
                     <div class="text-center">
                         <div class="text-center mb-5">
-                            <img class="img-fluid" width="544" height="310" loading="lazy" src="/assets/images/faq/header.webp" alt="Clingflare Go beyond browser fingerprinting">
+                            <img class="img-fluid" width="544" height="310" loading="lazy" src="/assets/images/pricing/header.webp" alt="Clingflare Go beyond browser fingerprinting">
                         </div>
-                        <h1 class="secondary-color pages-header syne-font fw-bolder mb-4 text-center mx-lg-5 px-lg-5">
-                             Questions? Look here.
-                        </h1>
                     </div>
+                   </div>
                 </div>
             </div>
-        </div>
     </section>
 
       <section class="py-3">
-       <div class="container">
-                   <div class="row d-flex justify-content-center">
-                       <div class="col-6">
-                           <div class="input-group rounded">
-                              <input type="search" class="form-control rounded search-bar" placeholder="Search FAQ" aria-label="Search" aria-describedby="search-addon" />
-                          </div>
-                      </div>
-                  </div>
-               </div>
+         <div class="container">
+             <div class="text-center mb-5">
+                  <img class="img-fluid" width="1093" height="159" loading="lazy" src="/assets/images/pricing/range.webp" alt="Clingflare Go beyond browser fingerprinting">
+             </div>
+         </div>
        </section>
+
+    <section class="py-3 py-md-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="p-4 rounded-4 dark-blue-bg w-fit ms-auto me-3">
+                         <h3 class="text-white fs-26 syne-font fw-bold">
+                            Pro
+                         </h3>
+                         <p class="fs-16 text-white mt-1">
+                             For companies that need to identify web and mobile visitors with confidence.
+                         </p>
+                         <p class="text-white fs-16 syne-font mb-1">
+                         <span class="fw-600">Clingflare</span> pro
+                         </p>
+                         <ul class="mb-3">
+                             <li class="text-white">
+                             Browser and device fingerprinting
+                             </li>
+                             <li class="text-white">
+                             Incognito mode detection
+                             </li>
+                             <li class="text-white">
+                             Geolocation
+                             </li>
+                         </ul>
+                         <p class="text-white fs-16 syne-font mb-1">
+                         <span class="fw-600">Bot detection</span>
+                         </p>
+                         <ul class="mb-3">
+                             <li class="text-white">
+                             Friendly bots
+                             </li>
+                             <li class="text-white">
+                             Automation tooling
+                             </li>
+                         </ul>
+                     </div>
+                </div>
+           </div>
+        </div>
+    </section>
 
       <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8">
               <div class="container">
                   <div class="row">
+                  <h3 class="mb-4 fw-600">Pricing FAQ</h3>
                   <div class="col-md-6">
                     <div class="accordion" id="accordionExample">
                       <div class="accordion-item">
