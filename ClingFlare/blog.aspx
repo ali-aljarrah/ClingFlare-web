@@ -54,7 +54,7 @@
                        </h2>
                    </div>
                    <div class="row d-flex justify-content-center">
-                       <div class="col-6">
+                       <div class="col-lg-6">
                            <div class="input-group rounded">
                               <input type="search" class="form-control rounded search-bar" placeholder="Search Blog" aria-label="Search" aria-describedby="search-addon" />
                           </div>
@@ -67,7 +67,7 @@
 
     <section>
      <div class="container">
-         <div class="row mb-5 pb-5">
+        <div class="row mb-4">
              <div class="col-md-4 mb-4">
                  <div class="border-card-hover h-100 d-flex flex-column w-100">
                      <div class="mb-3">
@@ -164,13 +164,7 @@
                      </div>
                  </div>
              </div>
-           
-         </div>
-     </div>
- </section>
-
-       <section>
-    <div class="container">
+        </div>
         <div class="row mb-5 pb-5">
             <div class="col-md-4 mb-4">
                 <div class="border-card-hover h-100 d-flex flex-column w-100">

@@ -85,6 +85,9 @@ body::-webkit-scrollbar-thumb {
 .bg-dark-blue {
     background-color: #1F2253;
 }
+.yellow-1-color {
+    color: #D3F278 !important;
+}
 .btn-hv {
     top: 72px;
     left: calc(100vw - 66vw);
@@ -93,6 +96,9 @@ body::-webkit-scrollbar-thumb {
     background: #EBEBEB !important;
     border: none !important;
     padding: 11px !important;
+}
+.border-1-gray {
+    border: 1px #e4e4e4 solid;
 }
 .h-250 {
     height: 250px !important;
@@ -317,6 +323,9 @@ a {
 }
 .dark-blue-bg {
   background: #1f2253;
+}
+.bg-blue {
+    background: #E9EEF2;
 }
 .second-dark-blue-bg {
   background: #181B48;
