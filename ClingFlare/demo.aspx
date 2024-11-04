@@ -7,11 +7,11 @@
 
 
 <uc1:header runat="server" ID="header" />
-<title>ClingFlare - Account sharing prevention</title>
+<title>ClingFlare - Demo</title>
 <meta name="description"
     content="Easily detect account sharing users and convert them into happy customers while keeping customer satisfaction high.">
 <link rel="canonical" href="https://www.clingflare.com/account_sharing_prevention">
-<meta property="og:title" content="ClingFlare - Account sharing prevention">
+<meta property="og:title" content="ClingFlare - Demo">
 <meta property="og:description"
     content="Easily detect account sharing users and convert them into happy customers while keeping customer satisfaction high.">
 </head>

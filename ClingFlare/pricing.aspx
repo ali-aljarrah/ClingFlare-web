@@ -8,16 +8,15 @@
 
 
 <uc1:header runat="server" ID="header" />
-<title>ClingFlare - Webinars</title>
+<title>ClingFlare - Pricing</title>
 <meta name="description"
     content="Stop fraud and improve user experience with clingflare.'s visitor identifier and advanced signals. Start your free trial and get 14 days of unlimited API calls.">
 <link rel="canonical" href="https://www.clingflare.com/opensource_vs_pro">
 <link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.4/tutorials/accordions/accordion-6/assets/css/accordion-6.css">
-<meta property="og:title" content="ClingFlare -  Webinars">
+<meta property="og:title" content="ClingFlare -  Pricing">
 <meta property="og:description"
     content="Stop fraud and improve user experience with clingflare.'s visitor identifier and advanced signals. Start your free trial and get 14 days of unlimited API calls.">
-    <link rel="preload" as="style" onload='this.rel="stylesheet"' href="/assets/css/prism.css">
-
+<link href="assets/css/pricing.css" rel="stylesheet" />
 </head>
 
 <body>
@@ -58,26 +57,28 @@
     </section>
 
       <section class="py-3">
-         <div class="container">
              <div class="text-center mb-5">
-                  <img class="img-fluid" width="1093" height="159" loading="lazy" src="/assets/images/pricing/range.webp" alt="Clingflare Go beyond browser fingerprinting">
+
+                   <form id="sliderData" class="w-100 d-flex justify-content-center align-items-center">
+                         <label for="slider1" class="visually-hidden">First Slider</label>
+                         <input id="slider1" name="slider1" class="slider" type="range" min="0" max="10" value="1">
+                  </form>
              </div>
-         </div>
        </section>
 
     <section class="py-3 py-md-5">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
-                    <div class="p-4 rounded-4 dark-blue-bg w-fit ms-auto me-3">
-                         <h3 class="text-white fs-26 syne-font fw-bold">
+                     <div class="p-4 rounded-4 dark-blue-bg w-100 ms-auto me-3">
+                         <h3 class="text-white fs-26 syne-font mb-3 fw-bold">
                             Pro
                          </h3>
                          <p class="fs-16 text-white mt-1">
                              For companies that need to identify web and mobile visitors with confidence.
                          </p>
                           <p class="text-white fs-16 syne-font mb-3">
-                            <span class="fw-600 fs-56 me-4">$200</span> per month
+                            <span id="plan1Price" class="fw-600 fs-56 me-4"></span> per month
                          </p>
                          <p class="text-white fs-16 mb-1">
                              for up to 100K API calls
@@ -86,8 +87,8 @@
                             $2/month per additional 1,000 API calls
                          </p>
                         <div class="mt-5 mb-3">
-                            <a class="red-button" href="#">
-                                <span class="me-1">Buy plan</span>
+                            <a class="red-button me-5" href="#">
+                                <span>Buy plan</span>
                             </a>
                              <a class="text-decoration-none" href="#">
                                  <span class="mx-2 yellow-1-color">Get custom pricing</span>
@@ -98,11 +99,11 @@
                              </a>
                         </div>
                      </div>
-                     <div class="p-4 rounded-4 bg-blue w-fit ms-auto me-3 mt-5">
+                     <div class="p-4 rounded-4 bg-blue w-100 ms-auto mt-5 me-3">
                           <h3 class="dark-blue fs-26 syne-font fw-bold">
                              Enterprise
                           </h3>
-                          <p class="fs-16 text-white mt-1">
+                          <p class="fs-16 dark-blue mt-1">
                               For companies that need to identify web and mobile visitors with confidence.
                           </p>
                          <div class="mt-5 mb-3">
@@ -113,7 +114,7 @@
                       </div>
                 </div>
                  <div class="col-md-6">
-                      <div class="p-4 rounded-4 w-fit ms-auto me-3 border-1-gray">
+                      <div class="p-4 rounded-4 w-100 ms-auto me-3 border-1-gray">
                            <p class=" dark-blue fs-16 fw-600 mb-1">
                                 Features
                            </p>
@@ -153,7 +154,7 @@
                             </p>
 
                        </div>
-                      <div class="p-4 rounded-4 w-fit mt-5 border-1-gray">
+                      <div class="p-4 rounded-4 w-100 mt-5 me-3 border-1-gray">
                             <p class=" dark-blue fs-16 fw-600 mb-1">
                                  Includes all Pro features &
                             </p>
@@ -197,23 +198,22 @@
                             </ul>
                         </div>
                  </div>
+               </div>
            </div>
-        </div>
     </section>
 
-      <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8">
-              <div class="container">
-                  <div class="row">
-                  <h3 class="mb-4 fw-600">Pricing FAQ</h3>
-                  <div class="col-md-6">
-                    <div class="accordion" id="accordionExample">
+        <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8">
+          <div class="container">
+              <div class="row">
+                <div class="accordion d-flex" id="accordionPricing">
+                     <div class="col-md-6">
                       <div class="accordion-item">
                         <h2 class="accordion-header">
                           <button class="accordion-button fw-600" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             What is Webflow and why is it the best website builder?
                           </button>
                         </h2>
-                        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
+                        <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionPricing">
                           <div class="accordion-body">
                             Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.                          </div>
                         </div>
@@ -224,7 +224,7 @@
                            What is your favorite template from BRIX Templates?
                           </button>
                         </h2>
-                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionPricing">
                           <div class="accordion-body">
                             <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
                           </div>
@@ -236,23 +236,22 @@
                            How do you clone a template from the Showcase?
                           </button>
                         </h2>
-                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionPricing">
                           <div class="accordion-body">
                             <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
                           </div>
                         </div>
                       </div>
                     </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="accordion" id="accordionExample">
+                    
+                     <div class="col-md-6">
                       <div class="accordion-item">
                          <h2 class="accordion-header">
                            <button class="accordion-button fw-600 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                            Why is BRIX Templates the best Webflow agency?
                            </button>
                          </h2>
-                         <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                         <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionPricing">
                            <div class="accordion-body">
                             Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere.                           
                            </div>
@@ -264,7 +263,7 @@
                          When was Webflow officially launched?
                           </button>
                         </h2>
-                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="collapseFive" class="accordion-collapse collapse" data-bs-parent="#accordionPricing">
                           <div class="accordion-body">
                             <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
                           </div>
@@ -276,21 +275,21 @@
                           How do you integrate Jetboost with Webflow?
                           </button>
                         </h2>
-                        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+                        <div id="collapseSix" class="accordion-collapse collapse" data-bs-parent="#accordionPricing">
                           <div class="accordion-body">
                             <strong>This is the third item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
                           </div>
                         </div>
                       </div>
-                    </div>
-                  </div>
-                 </div>
-              </div>
-      </section>
+                     </div>
+                </div>
+           </div>
+         </div>
+  </section>
 
 
     <uc1:footer runat="server" ID="footer" />
-
+    <script src="assets/js/pricing.js"></script>
 </body>
 
 </html>

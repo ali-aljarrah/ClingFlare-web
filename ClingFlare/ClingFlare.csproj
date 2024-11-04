@@ -71,6 +71,7 @@
     <Content Include="account_takeover.aspx" />
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\inter.css" />
+    <Content Include="assets\css\pricing.css" />
     <Content Include="assets\css\prism.css" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\css\syne.css" />
@@ -86,6 +87,7 @@
     <Content Include="assets\js\jquery.countup.min.js" />
     <Content Include="assets\js\jquery.waypoints.min.js" />
     <Content Include="assets\js\main.js" />
+    <Content Include="assets\js\pricing.js" />
     <Content Include="assets\js\prism.js" />
     <Content Include="blog.aspx" />
     <Content Include="bot_detection.aspx" />
@@ -109,8 +111,11 @@
     <Content Include="paywall.aspx" />
     <Content Include="press.aspx" />
     <Content Include="pricing.aspx" />
+    <Content Include="privacy-policy.aspx" />
+    <Content Include="refund-policy.aspx" />
     <Content Include="sdk_libraries.aspx" />
     <Content Include="security.aspx" />
+    <Content Include="terms-condition.aspx" />
     <Content Include="Web.config" />
     <Content Include="webinars.aspx" />
   </ItemGroup>
@@ -279,7 +284,21 @@
     <Compile Include="pricing.aspx.designer.cs">
       <DependentUpon>pricing.aspx</DependentUpon>
     </Compile>
+    <Compile Include="privacy-policy.aspx.cs">
+      <DependentUpon>privacy-policy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="privacy-policy.aspx.designer.cs">
+      <DependentUpon>privacy-policy.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="refund-policy.aspx.cs">
+      <DependentUpon>refund-policy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="refund-policy.aspx.designer.cs">
+      <DependentUpon>refund-policy.aspx</DependentUpon>
+    </Compile>
     <Compile Include="sdk_libraries.aspx.cs">
       <DependentUpon>sdk_libraries.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -293,6 +312,13 @@
     </Compile>
     <Compile Include="security.aspx.designer.cs">
       <DependentUpon>security.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="terms-condition.aspx.cs">
+      <DependentUpon>terms-condition.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="terms-condition.aspx.designer.cs">
+      <DependentUpon>terms-condition.aspx</DependentUpon>
     </Compile>
     <Compile Include="webinars.aspx.cs">
       <DependentUpon>webinars.aspx</DependentUpon>
@@ -449,6 +475,8 @@
     <Content Include="assets\images\faq\header.webp" />
     <Content Include="assets\images\pricing\header.webp" />
     <Content Include="assets\images\pricing\range.webp" />
+    <Content Include="assets\images\pricing\rang-icon.webp" />
+    <Content Include="assets\images\privacy\header-p.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

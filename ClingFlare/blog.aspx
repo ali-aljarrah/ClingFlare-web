@@ -10,11 +10,11 @@
 
 
 <uc1:header runat="server" ID="header" />
-<title>ClingFlare - Webinars</title>
+<title>ClingFlare - Blog</title>
 <meta name="description"
     content="Stop fraud and improve user experience with clingflare.'s visitor identifier and advanced signals. Start your free trial and get 14 days of unlimited API calls.">
 <link rel="canonical" href="https://www.clingflare.com/opensource_vs_pro">
-<meta property="og:title" content="ClingFlare -  Webinars">
+<meta property="og:title" content="ClingFlare -  Blog">
 <meta property="og:description"
     content="Stop fraud and improve user experience with clingflare.'s visitor identifier and advanced signals. Start your free trial and get 14 days of unlimited API calls.">
     <link rel="preload" as="style" onload='this.rel="stylesheet"' href="/assets/css/prism.css">

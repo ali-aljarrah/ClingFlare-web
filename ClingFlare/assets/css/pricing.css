@@ -1,0 +1,81 @@
+﻿.owl-stage {
+    height: 120px;
+    padding-top: 15px
+}
+
+@media (max-width:768px) {
+    #nav-tab {
+        padding: 5px 4px 0 0
+    }
+
+    .dev-nav-item {
+        font-size: 10px
+    }
+}
+
+.slider, .slider2 {
+    -webkit-appearance: none;
+    width: 990px;
+    height: 15px;
+    background: linear-gradient(to right, #DD4536 0%, #DD4536 20%, #D9D9D9 20%, #D9D9D9 100%);
+    outline: 0;
+    border-radius: 10px
+}
+
+    .slider::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 70px;
+        height: 70px;
+        background-image: url('../images/pricing/rang-icon.webp');
+        cursor: pointer;
+        background-size: 90px;
+        background-position: center;
+        border-radius: 10px;
+        border: none;
+    }
+
+    .slider::-moz-range-thumb {
+        appearance: none;
+        width: 30px;
+        height: 30px;
+        background-image: url('../images/pricing/rang-icon.webp');
+        cursor: pointer;
+        background-size: 30px;
+        background-position: center;
+        border-radius: 20px;
+        border: 2px solid #fe7860
+    }
+
+    .slider::-moz-range-progress {
+        background: #fe7860
+    }
+
+    .slider2::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 30px;
+        height: 30px;
+        background-image: url('../images/pricing/rang-icon.webp');
+        cursor: pointer;
+        background-size: 30px;
+        background-position: center;
+        border-radius: 20px;
+        border: 2px solid #fe7860
+    }
+
+    .slider2::-moz-range-thumb {
+        appearance: none;
+        width: 30px;
+        height: 30px;
+        background-image: url('../images/pricing/rang-icon.webp');
+        cursor: pointer;
+        background-size: 30px;
+        background-position: center;
+        border-radius: 20px;
+        border: 2px solid #fe7860
+    }
+
+    .slider2::-moz-range-progress {
+        background: #D9D9D9;
+    }

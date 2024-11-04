@@ -9,12 +9,12 @@
 
 
 <uc1:header runat="server" ID="header" />
-<title>ClingFlare - Webinars</title>
+<title>ClingFlare - FAQ</title>
 <meta name="description"
     content="Stop fraud and improve user experience with clingflare.'s visitor identifier and advanced signals. Start your free trial and get 14 days of unlimited API calls.">
 <link rel="canonical" href="https://www.clingflare.com/opensource_vs_pro">
 <link rel="stylesheet" href="https://unpkg.com/bs-brain@2.0.4/tutorials/accordions/accordion-6/assets/css/accordion-6.css">
-<meta property="og:title" content="ClingFlare -  Webinars">
+<meta property="og:title" content="ClingFlare -  FAQ">
 <meta property="og:description"
     content="Stop fraud and improve user experience with clingflare.'s visitor identifier and advanced signals. Start your free trial and get 14 days of unlimited API calls.">
     <link rel="preload" as="style" onload='this.rel="stylesheet"' href="/assets/css/prism.css">
