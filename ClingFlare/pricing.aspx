@@ -97,21 +97,6 @@
                             </a>
                         </div>
                     </div>
-
-                </div>
-                <div class="col-md-6">
-                    <div class="p-4 rounded-4 bg-blue w-100 ms-auto mt-5 me-3 h-100">
-                        <h3 class="dark-blue fs-26 syne-font fw-bold">Enterprise
-                        </h3>
-                        <p class="fs-16 dark-blue mt-1">
-                            For companies that need to identify web and mobile visitors with confidence.
-                        </p>
-                        <div class="mt-5 mb-3">
-                            <a class="red-button" href="#">
-                                <span class="me-1">Get custom pricing</span>
-                            </a>
-                        </div>
-                    </div>
                 </div>
                 <div class="col-md-6">
                     <div class="p-4 rounded-4 w-100 ms-auto me-3 border-1-gray h-100">
@@ -146,7 +131,20 @@
                         </p>
 
                     </div>
-
+                </div>
+                <div class="col-md-6">
+                    <div class="p-4 rounded-4 bg-blue w-100 ms-auto mt-5 me-3 h-100">
+                        <h3 class="dark-blue fs-26 syne-font fw-bold">Enterprise
+                        </h3>
+                        <p class="fs-16 dark-blue mt-1">
+                            For companies that need to identify web and mobile visitors with confidence.
+                        </p>
+                        <div class="mt-5 mb-3">
+                            <a class="red-button" href="#">
+                                <span class="me-1">Get custom pricing</span>
+                            </a>
+                        </div>
+                    </div>
                 </div>
                 <div class="col-md-6">
                     <div class="p-4 rounded-4 w-100 mt-5 me-3 border-1-gray h-100">
