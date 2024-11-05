@@ -85,6 +85,9 @@ body::-webkit-scrollbar-thumb {
 .bg-dark-blue {
     background-color: #1F2253;
 }
+.bg-soft-gray {
+    background-color: #fdfef7;
+}
 .yellow-1-color {
     color: #D3F278 !important;
 }
@@ -98,6 +101,9 @@ body::-webkit-scrollbar-thumb {
     padding: 11px !important;
 }
 .border-1-gray {
+    border: 1px #e4e4e4 solid;
+}
+.border-1 {
     border: 1px #e4e4e4 solid;
 }
 .h-250 {

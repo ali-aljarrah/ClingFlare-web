@@ -17,7 +17,7 @@
     -webkit-appearance: none;
     width: 990px;
     height: 15px;
-    background: linear-gradient(to right, #DD4536 0%, #DD4536 20%, #D9D9D9 20%, #D9D9D9 100%);
+    background: linear-gradient(to right, #DD4536 0%, #d9d9d9 20%, #D9D9D9 20%, #d9d9d9 100%);
     outline: 0;
     border-radius: 10px
 }
@@ -78,4 +78,7 @@
 
     .slider2::-moz-range-progress {
         background: #D9D9D9;
+    }
+    .h-400{
+        height:400px !important;
     }
