@@ -70,6 +70,7 @@
     <Content Include="about.aspx" />
     <Content Include="account_sharing_prevention.aspx" />
     <Content Include="account_takeover.aspx" />
+    <Content Include="article.aspx" />
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\inter.css" />
     <Content Include="assets\css\pricing.css" />
@@ -136,6 +137,13 @@
     </Compile>
     <Compile Include="account_takeover.aspx.designer.cs">
       <DependentUpon>account_takeover.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="article.aspx.cs">
+      <DependentUpon>article.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="article.aspx.designer.cs">
+      <DependentUpon>article.aspx</DependentUpon>
     </Compile>
     <Compile Include="blog.aspx.cs">
       <DependentUpon>blog.aspx</DependentUpon>
