@@ -465,12 +465,13 @@
     <Content Include="assets\images\pricing\range.webp" />
     <Content Include="assets\images\pricing\rang-icon.webp" />
     <Content Include="assets\images\privacy\header-p.webp" />
-    <Content Include="assets\images\about\about.webp" />
     <Content Include="assets\images\about\fay.webp" />
     <Content Include="assets\images\about\grow.webp" />
     <Content Include="assets\images\about\seriously.webp" />
-    <Content Include="assets\images\about\star5.webp" />
     <Content Include="assets\images\about\join.webp" />
+    <Content Include="assets\images\about\about4.webp" />
+    <Content Include="assets\images\about\image06.webp" />
+    <Content Include="assets\images\about\star1.webp" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
