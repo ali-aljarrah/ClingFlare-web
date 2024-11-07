@@ -60,7 +60,7 @@
                              </p>
                          </div>
                          <div class="mt-4">
-                             <a href="#" class="text-decoration-none">
+                             <a href="/article.aspx" class="text-decoration-none">
                                  <span class="fs-16 fw-500 me-1 red-color">
                                  Read webinar
                                  </span>
@@ -92,7 +92,7 @@
                              </p>
                          </div>
                          <div class="mt-4">
-                             <a href="#" class="text-decoration-none">
+                             <a href="/article.aspx" class="text-decoration-none">
                                  <span class="fs-16 fw-500 me-1 red-color">
                                 Read webinar
                                  </span>
@@ -124,7 +124,7 @@
                              </p>
                          </div>
                          <div class="mt-4">
-                             <a href="#" class="text-decoration-none">
+                             <a href="/article.aspx" class="text-decoration-none">
                                  <span class="fs-16 fw-500 me-1 red-color">
                                  Read webinar
                                  </span>

@@ -5,7 +5,7 @@
     <div class="container">
       <div class="collapse navbar-collapse justify-content-between d-none d-lg-block">
         <div>
-          <a class="navbar-brand" href="/">
+          <a class="navbar-brand" href="/index.aspx">
               <img width="216" height="32" loading="lazy" class="img-fluid" src="/assets/images/logo.webp" alt="ClingFlare Logo">
           </a>
         </div>

@@ -1,10 +1,12 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="about.aspx.cs" Inherits="ClingFlare.about" %>
 
 
-
+<%@ Register Src="~/controls/loader.ascx" TagPrefix="uc1" TagName="loader" %>
 <%@ Register Src="~/controls/footer.ascx" TagPrefix="uc1" TagName="footer" %>
 <%@ Register Src="~/controls/header.ascx" TagPrefix="uc1" TagName="header" %>
 <%@ Register Src="~/controls/menu.ascx" TagPrefix="uc1" TagName="menu" %>
+
+<uc1:loader runat="server" ID="loader" />
 
 
 <uc1:header runat="server" ID="header" />
