@@ -116,6 +116,11 @@ body::-webkit-scrollbar-thumb {
 .h-fit{
     height:fit-content;
 }
+.share-btn {
+    background: #747695 !important;
+    border: 3px #1f2253 solid !important;
+    border-radius: 38px !important;
+}
 /*accordion faq page */
 .accordion-button:not(.collapsed) {
     color: #000000 !important;
