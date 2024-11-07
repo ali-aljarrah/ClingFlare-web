@@ -70,6 +70,7 @@
     <Content Include="about.aspx" />
     <Content Include="account_sharing_prevention.aspx" />
     <Content Include="account_takeover.aspx" />
+    <Content Include="api-status.aspx" />
     <Content Include="article.aspx" />
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\inter.css" />
@@ -98,6 +99,7 @@
     <Content Include="controls\menu.ascx" />
     <Content Include="cryptocurrency.aspx" />
     <Content Include="demo.aspx" />
+    <Content Include="documentation.aspx" />
     <Content Include="ecommerce.aspx" />
     <Content Include="faq.aspx" />
     <Content Include="gaming.aspx" />
@@ -137,6 +139,13 @@
     </Compile>
     <Compile Include="account_takeover.aspx.designer.cs">
       <DependentUpon>account_takeover.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="api-status.aspx.cs">
+      <DependentUpon>api-status.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="api-status.aspx.designer.cs">
+      <DependentUpon>api-status.aspx</DependentUpon>
     </Compile>
     <Compile Include="article.aspx.cs">
       <DependentUpon>article.aspx</DependentUpon>
@@ -224,6 +233,13 @@
     </Compile>
     <Compile Include="demo.aspx.designer.cs">
       <DependentUpon>demo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="documentation.aspx.cs">
+      <DependentUpon>documentation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="documentation.aspx.designer.cs">
+      <DependentUpon>documentation.aspx</DependentUpon>
     </Compile>
     <Compile Include="ecommerce.aspx.cs">
       <DependentUpon>ecommerce.aspx</DependentUpon>

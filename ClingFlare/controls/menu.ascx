@@ -51,7 +51,7 @@
             </div>
             <ul class="dropdown-site-menu">
               <li id="lg-documentation-link"><a href="/documentation.aspx">Documentation</a></li>
-              <li id="lg-api-status-link"><a href="/api_status.aspx">API Status</a></li>
+              <li id="lg-api-status-link"><a href="/api-status.aspx">API Status</a></li>
               <li id="lg-sdk-libraries-link"><a href="/sdk_libraries.aspx">SDK & libraries</a></li>
               <li id="lg-pensource-vs-pro-link"><a href="/opensource_vs_pro.aspx">Opensource VS Pro</a></li>
             </ul>
@@ -68,7 +68,7 @@
               <li id="lg-webinars-link"><a href="/webinars.aspx">Webinars</a></li>
               <li id="lg-case-studies-link"><a href="/case-studies.aspx">Case studies</a></li>
               <li id="lg-press-link"><a href="/press.aspx">Press</a></li>
-              <li id="lg-about-us-link"><a href="/about_us.aspx">About us</a></li>
+              <li id="lg-about-us-link"><a href="/about.aspx">About us</a></li>
               <li id="lg-faq-link"><a href="/faq.aspx">FAQ</a></li>
               <li id="lg-faq-link"><a href="/contact.aspx">Contact</a></li>
             </ul>
@@ -172,7 +172,7 @@
                 <a id="sm-documentation-link" class="mobile-link" href="/documentation.aspx">Documentation</a>
               </div>
               <div class="mb-2">
-                <a id="sm-api-status-link" class="mobile-link" href="/api_status.aspx">API status</a></a>
+                <a id="sm-api-status-link" class="mobile-link" href="/api-status.aspx">API status</a></a>
               </div>
               <div class="mb-2">
                 <a id="sm-sdk-libraries-link" class="mobile-link" href="/sdk_libraries.aspx">SDK & libraries</a></a>
@@ -204,7 +204,7 @@
                 <a id="sm-press-link" class="mobile-link" href="/press.aspx">Press</a></a>
               </div>
               <div class="mb-2">
-                <a id="sm-about-us-link" class="mobile-link" href="/about_us.aspx">About us</a></a>
+                <a id="sm-about-us-link" class="mobile-link" href="/about.aspx">About us</a></a>
               </div>
               <div class="mb-2">
                 <a id="sm-faq-link" class="mobile-link" href="/faq.aspx">FAQ</a></a>

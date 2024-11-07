@@ -82,3 +82,9 @@
     .h-400{
         height:400px !important;
     }
+
+    @media (max-width: 450px) {
+        .h-400 {
+            height: 800px !important;
+        }
+    }

@@ -47,7 +47,7 @@
                 <div class="col-md-6">
                     <div class="text-center">
                         <div class="text-center mb-5">
-                            <img class="img-fluid" width="544" height="310" loading="lazy" src="/assets/images/pricing/header.webp" alt="Clingflare Go beyond browser fingerprinting">
+                            <img class="img-fluid mt-lg-0 mt-5" width="544" height="310" loading="lazy" src="/assets/images/pricing/header.webp" alt="Clingflare Go beyond browser fingerprinting">
                         </div>
                     </div>
                 </div>
@@ -70,7 +70,8 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="p-4 rounded-4 dark-blue-bg w-100 ms-auto me-3 h-100">
-                        <h3 class="text-white fs-26 syne-font mb-3 fw-bold">Pro
+                        <h3 class="text-white fs-26 syne-font mb-3 fw-bold">
+                            Pro
                         </h3>
                         <p class="fs-16 text-white mt-1">
                             For companies that need to identify web and mobile visitors with confidence.
@@ -84,11 +85,11 @@
                         <p class="text-white fs-16 mb-1">
                             $2/month per additional 1,000 API calls
                         </p>
-                        <div class="mt-5 mb-3">
+                        <div class="mt-5 mb-3 d-flex flex-md-row flex-column">
                             <a class="red-button me-5" href="#">
                                 <span>Buy plan</span>
                             </a>
-                            <a class="text-decoration-none" href="#">
+                            <a class="text-decoration-none mt-3" href="#">
                                 <span class="mx-2 yellow-1-color">Get custom pricing</span>
                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path d="M21 12H3" stroke="#D3F278" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
@@ -98,7 +99,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 mt-lg-0 mt-5">
                     <div class="p-4 rounded-4 w-100 ms-auto me-3 border-1-gray h-100">
                         <p class=" dark-blue fs-16 fw-600 mb-1">
                             Features
@@ -146,7 +147,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 mt-lg-0 mt-5">
                     <div class="p-4 rounded-4 w-100 mt-5 me-3 border-1-gray h-100">
                         <p class=" dark-blue fs-16 fw-600 mb-1">
                             Includes all Pro features &
@@ -185,8 +186,8 @@
 
     <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8">
         <div class="container">
-            <div class="row">
-                <div class="accordion d-flex py-5 h-400" id="accordionPricing">
+            <div class="accordion d-lg-flex py-5 h-400" id="accordionPricing">
+                 <div class="row">
                     <div class="col-md-6">
                         <div class="accordion-item">
                             <h2 class="accordion-header">

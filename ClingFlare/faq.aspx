@@ -56,9 +56,8 @@
 
       <section class="bsb-accordion-6 py-3 py-md-5 py-xl-8">
               <div class="container">
-                  <div class="row">
-                    <div class="accordion d-flex" id="accordionFAQ">
-                        
+                 <div class="accordion d-lg-flex h-400" id="accordionFAQ">
+                     <div class="row">
                          <div class="col-md-6">
                           <div class="accordion-item">
                             <h2 class="accordion-header">

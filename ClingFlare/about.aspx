@@ -24,7 +24,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <div class="mt-5 pt-5 text-start">
+                <div class="mt-lg-5 pt-lg-5 text-start">
                     <h1 class="secondary-color pages-header syne-font fw-bolder mb-4">
                          About us
                     </h1>
@@ -46,7 +46,7 @@
             </div>
               <div class="col-md-6">
                   <div class="text-center">
-                    <img class="img-fluid mt-4" width="436" height="328" loading="lazy" src="/assets/images/about/about4.webp" alt="Clingflare Unlock subscription revenue from your existing users">
+                    <img class="img-fluid mt-lg-4 mt-5" width="436" height="328" loading="lazy" src="/assets/images/about/about4.webp" alt="Clingflare Unlock subscription revenue from your existing users">
                   </div>
               </div>
         </div>
